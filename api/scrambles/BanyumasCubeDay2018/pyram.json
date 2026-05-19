@@ -1,0 +1,106 @@
+{
+  "eventId": "pyram",
+  "competitionId": "BanyumasCubeDay2018",
+  "rounds": {
+    "c": [
+      {
+        "scrambleNum": "1",
+        "scramble": "B R B' L' U R' L' U' B L B u b'",
+        "scrambleId": "682048",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B R' L U B' R U' B U B' L' u l b",
+        "scrambleId": "682049",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B' R' B' U L' R' B R U' R' L' u' l r' b",
+        "scrambleId": "682050",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "B R L B U R U B L R U' l' r' b",
+        "scrambleId": "682051",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "U R L' U B' L' U L' R' B R' u l r",
+        "scrambleId": "682052",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U L' B L' B U R' U B R' L' u' l r b'",
+        "scrambleId": "682053",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R' B' R L R' B' U' B' R' L' U' u' l' r' b",
+        "scrambleId": "682054",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L' B' U L B U' B U B' L' R' l b'",
+        "scrambleId": "682055",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R B L' R U' B L U R' U' u' l r' b'",
+        "scrambleId": "682056",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B' L U' R L' U' B' L' U' B R' u' l'",
+        "scrambleId": "682057",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "B R U' B R' B' R' U L' U B u' r' b",
+        "scrambleId": "682058",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L' U L' R' U L' B' L' B R' B r' b'",
+        "scrambleId": "682059",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B U L' B U' R' U L B' R' B u r' b'",
+        "scrambleId": "682060",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L' U' R' B L' R B R U' B' U' u' l r'",
+        "scrambleId": "682061",
+        "isExtra": 1,
+        "groupId": "B"
+      }
+    ]
+  }
+}

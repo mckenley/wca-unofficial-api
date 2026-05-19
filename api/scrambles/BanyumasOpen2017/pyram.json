@@ -1,0 +1,57 @@
+{
+  "eventId": "pyram",
+  "competitionId": "BanyumasOpen2017",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "R' L B U' B' R U L B' R B u' l' r' b'",
+        "scrambleId": "506417",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L' U B' R B' U' L' U L B' L u l r' b",
+        "scrambleId": "506418",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "R B L B U L' B R' L' U L u' l r' b'",
+        "scrambleId": "506419",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "U' R L' B' R L' U' B R B' U b'",
+        "scrambleId": "506420",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L B' R' B' L' R' U R L B' R l r' b",
+        "scrambleId": "506421",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B L U' L B' L' B' L U R' L u' l' r'",
+        "scrambleId": "506422",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U L R B' R U B U B R' B u",
+        "scrambleId": "506423",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

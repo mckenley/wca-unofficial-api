@@ -1,0 +1,57 @@
+{
+  "eventId": "pyram",
+  "competitionId": "BatamMiniCompetition2017",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "B U' L B' U R' B L' R' L' U u' r'",
+        "scrambleId": "495135",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L' U' L B L U R' L' B' R B' u r'",
+        "scrambleId": "495136",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B L' U L' U' L U' B' L U' L' u",
+        "scrambleId": "495137",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "B' R B' L R B' U B' R L' R u l' r' b'",
+        "scrambleId": "495138",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "B' L U' R' L B' U' B' L B U u l' r'",
+        "scrambleId": "495139",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L B L R L B' U R' U' R L' u r b",
+        "scrambleId": "495140",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R B L' B R U L B U' R L u' r' b'",
+        "scrambleId": "495141",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

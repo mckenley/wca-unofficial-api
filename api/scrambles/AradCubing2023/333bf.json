@@ -1,0 +1,80 @@
+{
+  "eventId": "333bf",
+  "competitionId": "AradCubing2023",
+  "rounds": {
+    "1": [
+      {
+        "scrambleNum": "1",
+        "scramble": "F2 R2 D' F2 U F2 B R' L F R2 F2 U2 R L' D2 R' B2 L' Uw'",
+        "scrambleId": "3023170",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "F U L F2 L' D2 F2 B U D2 L' D' F2 U' D L2 U' D Rw' Uw",
+        "scrambleId": "3023171",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L' U R U2 L2 F2 R B' D2 L' D2 L2 F2 R F2 L U2 B2 U Rw Uw",
+        "scrambleId": "3023172",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B2 L F D2 R2 B F2 R2 B' L2 D2 L' D2 U' B F D U2 L F2 Uw2",
+        "scrambleId": "3023173",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R B' U' L B' U L2 U' B R2 B2 D2 R2 B2 R' U2 R' F2 U Fw Uw'",
+        "scrambleId": "3023174",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ],
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "R' D2 L B2 U2 B2 D B2 R2 F2 L B' R2 D' L2 B2 D' B2 Rw",
+        "scrambleId": "3023175",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B2 L' B2 D' R2 D F2 R2 U B2 D2 U' B2 L F L' R' B2 D B' Uw2",
+        "scrambleId": "3023176",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L' U' L2 U2 B2 D F U R' U2 D2 F' U2 F2 U2 L2 D2 L2 F2 B2 Rw2 Uw",
+        "scrambleId": "3023177",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R' U2 R F2 U2 R' D2 R2 F2 D2 U R F U' B D' R' U L' D2 Rw' Uw'",
+        "scrambleId": "3023178",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L' F' U D' R U D' L2 D2 F U' B2 D' R2 U' R2 D'",
+        "scrambleId": "3023179",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}
