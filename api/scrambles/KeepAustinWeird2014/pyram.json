@@ -1,0 +1,57 @@
+{
+  "eventId": "pyram",
+  "competitionId": "KeepAustinWeird2014",
+  "rounds": {
+    "c": [
+      {
+        "scrambleNum": "1",
+        "scramble": "U L U' B' R' U B R' L B L' r b'",
+        "scrambleId": "39251",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U R L' U' R' B' R' U L B U' l' r b'",
+        "scrambleId": "39252",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B' R' B R L B R B' R' B L' r b'",
+        "scrambleId": "39253",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "B U' R L U B' L' B' R' L' R' u l'",
+        "scrambleId": "39254",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "R U' L' B' U R L U' R' L B' l' b",
+        "scrambleId": "39255",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L B R' B U R' B' U B L' B' l r b",
+        "scrambleId": "39256",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B' L B' U' B U' R' L' R L' U u l r'",
+        "scrambleId": "39257",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

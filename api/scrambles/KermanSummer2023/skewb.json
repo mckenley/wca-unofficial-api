@@ -1,0 +1,108 @@
+{
+  "eventId": "skewb",
+  "competitionId": "KermanSummer2023",
+  "rounds": {
+    "d": [
+      {
+        "scrambleNum": "1",
+        "scramble": "L R L U' L B U R' L R' U",
+        "scrambleId": "2885369",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B R B' L R' L R' L R' L B'",
+        "scrambleId": "2885370",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L R U R' U R U' B R' L B'",
+        "scrambleId": "2885371",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "U L B L' U' B' L U' L U B",
+        "scrambleId": "2885372",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "B R B L U' L U' L R B L'",
+        "scrambleId": "2885373",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L R U L B' R L' B' L B R",
+        "scrambleId": "2885374",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U L B R' B R' U' B' R B U'",
+        "scrambleId": "2885375",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ],
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "R B R B U L' R B' R U' R",
+        "scrambleId": "2885376",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B L U R' U' L' B' R U B L'",
+        "scrambleId": "2885377",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L R U L B R L R L B U'",
+        "scrambleId": "2885378",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "R B U B R U B L' B R' U'",
+        "scrambleId": "2885379",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "U B L B' R L B' L R' L' U",
+        "scrambleId": "2885380",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B L R B' U R U' B' L B' R",
+        "scrambleId": "2885381",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L B U' L R' U' B' R L' U' B'",
+        "scrambleId": "2885382",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "eventId": "skewb",
+  "competitionId": "KansaiOpen2015",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "L R B L' U' R L' U L' R B",
+        "scrambleId": "121203",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R L' U' L R L B' U B U",
+        "scrambleId": "121204",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L R L R L' R L' B R L' U'",
+        "scrambleId": "121205",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L R B L B U' B R' L R' B'",
+        "scrambleId": "121206",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L R L' B' R B' L' U' R' B U",
+        "scrambleId": "121207",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L R L' U B' U L U L U' L",
+        "scrambleId": "121208",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R L' U L U' B L' B U L'",
+        "scrambleId": "121209",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

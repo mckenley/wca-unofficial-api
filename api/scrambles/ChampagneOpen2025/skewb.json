@@ -1,0 +1,106 @@
+{
+  "eventId": "skewb",
+  "competitionId": "ChampagneOpen2025",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "R U R' U' L U B' L B U' L",
+        "scrambleId": "5008686",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B L R' U B' L' R B' U L U",
+        "scrambleId": "5008687",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "R U B' U B L U B R' B U'",
+        "scrambleId": "5008688",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "B U L B' L B' L U R' U B",
+        "scrambleId": "5008689",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L B L U' R' U' B R' L' B L",
+        "scrambleId": "5008690",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U L R' L' B' R' U' B' U L' B",
+        "scrambleId": "5008691",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L B L' U' L' R U R U B L",
+        "scrambleId": "5008692",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L R' B L' R U' L B' U' B' R'",
+        "scrambleId": "5008693",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R' B R' L U' L' B' L' B' U",
+        "scrambleId": "5008694",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "R B' U R' L R' B R' B' L' B",
+        "scrambleId": "5008695",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "R U R L' U L U L B' R U",
+        "scrambleId": "5008696",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L R L R U' R' U L' U' B' U'",
+        "scrambleId": "5008697",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B L B' U R' L B' U' R' L' R'",
+        "scrambleId": "5008698",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B R B' L B L' R' U B L' U",
+        "scrambleId": "5008699",
+        "isExtra": 1,
+        "groupId": "B"
+      }
+    ]
+  }
+}

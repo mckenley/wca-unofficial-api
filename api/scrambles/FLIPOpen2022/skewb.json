@@ -1,0 +1,106 @@
+{
+  "eventId": "skewb",
+  "competitionId": "FLIPOpen2022",
+  "rounds": {
+    "c": [
+      {
+        "scrambleNum": "1",
+        "scramble": "L R L U' R B' U' L R U L'",
+        "scrambleId": "2038807",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L B U B' U L' R L R B R'",
+        "scrambleId": "2038808",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "R B R' L' R' U' R B R L' R'",
+        "scrambleId": "2038809",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L R L R U' R' B U L' U L",
+        "scrambleId": "2038810",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "B U L' B R' B R U B' R' U",
+        "scrambleId": "2038811",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L B L R U B U L B' U B",
+        "scrambleId": "2038812",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B U R' L' U' B' R' U R' L' B'",
+        "scrambleId": "2038813",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L R B' U' L' R' B' R' B U' L'",
+        "scrambleId": "2038814",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B U B R' U R' B R U L R'",
+        "scrambleId": "2038815",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "R B L U L B' U' B' L R L",
+        "scrambleId": "2038816",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "U B R L' B' R' L R L' R' U'",
+        "scrambleId": "2038817",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "R B U' B L' U B L' U' R' U",
+        "scrambleId": "2038818",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R U L B R' U' B' U B' U' R",
+        "scrambleId": "2038819",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L U R L' U' R U R U R' L'",
+        "scrambleId": "2038820",
+        "isExtra": 1,
+        "groupId": "B"
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "eventId": "pyram",
+  "competitionId": "HotelCube2018",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "R L R' B L R U' B' U L' R' u' l' r b",
+        "scrambleId": "795119",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R U' B R U R L B' L B' R' l' b",
+        "scrambleId": "795120",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "U' L U' R' U' R' L U L' R B' u' l' b",
+        "scrambleId": "795121",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "U L U L U' L U R B' U' L' u' l b'",
+        "scrambleId": "795122",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "B L' U B' L' U B U B R' L l' b'",
+        "scrambleId": "795123",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R L R' B' U R B U' B L U u' l b'",
+        "scrambleId": "795124",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B R U B' R' U L' R' L' R U' u r b",
+        "scrambleId": "795125",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B' R' B' L U' R' U' L' B' R B u l' r b'",
+        "scrambleId": "795126",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R' U' L U L U' B' R B' L' u' l r",
+        "scrambleId": "795127",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B U' L R' U B L U B U' B u' l b'",
+        "scrambleId": "795128",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "U' R' B L B' R L U L' R' U' l r b",
+        "scrambleId": "795129",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L R' U' R' U R U' L' U' B R' u r",
+        "scrambleId": "795130",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U' B R U' L' B' R U' B R' L b'",
+        "scrambleId": "795131",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R U' B L U B' L U' B' R' b",
+        "scrambleId": "795132",
+        "isExtra": 1,
+        "groupId": "B"
+      }
+    ]
+  }
+}

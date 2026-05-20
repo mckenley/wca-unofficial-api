@@ -1,0 +1,57 @@
+{
+  "eventId": "pyram",
+  "competitionId": "HCMCSummerOpen2016",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "B R' B' U L U R U B' L R' u r'",
+        "scrambleId": "339988",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L' U R U' L' R' B U' L B' U' u l r",
+        "scrambleId": "339989",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B L' B' R' U' R' U' B' U R' L u' l r' b'",
+        "scrambleId": "339990",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "B L' R U L' B' R' U' L' B U' l r",
+        "scrambleId": "339991",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "B U' L U R B' R L' U' B' L u' l' b'",
+        "scrambleId": "339992",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R' L' B' U R' L R' L' U' R B' r' b'",
+        "scrambleId": "339993",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R' U B R' B U R' U B' R U",
+        "scrambleId": "339994",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

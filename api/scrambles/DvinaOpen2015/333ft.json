@@ -1,0 +1,43 @@
+{
+  "eventId": "333ft",
+  "competitionId": "DvinaOpen2015",
+  "rounds": {
+    "c": [
+      {
+        "scrambleNum": "1",
+        "scramble": "F2 L2 D2 R' D2 R2 F2 D2 L B' U L B R' U2 F' L' B2 L' B'",
+        "scrambleId": "180915",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "D R2 D L2 R2 U L2 D2 F R D L' R2 U' F2 D U R2 D2",
+        "scrambleId": "180916",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "D L2 B2 D F2 D L2 D2 F' D R' D' B R' F L' D B L F'",
+        "scrambleId": "180917",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U2 L2 F2 D2 U2 B' U2 F2 L2 F2 R U L' R2 U B' D L F R",
+        "scrambleId": "180918",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "F R2 F' D2 F U2 B' D2 B2 R2 D L' D B R F D' U L B'",
+        "scrambleId": "180919",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

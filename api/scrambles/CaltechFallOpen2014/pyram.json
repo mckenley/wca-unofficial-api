@@ -1,0 +1,106 @@
+{
+  "eventId": "pyram",
+  "competitionId": "CaltechFallOpen2014",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "B R U B U' R' B' L R' L' U' u r'",
+        "scrambleId": "76519",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R B' R L' U R B U' R L' U l",
+        "scrambleId": "76520",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B' L' R' B L B R' U R' L' U' l r'",
+        "scrambleId": "76521",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L U' R' L' U R' B' R' U' R' U' u r' b",
+        "scrambleId": "76522",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "B L U' B L' R U' L' R L' U' u r' b",
+        "scrambleId": "76523",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U B U' B' U' B L' R L B' U l' r b",
+        "scrambleId": "76524",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L' R L B' R' U' R' U' B' R' L u l r' b'",
+        "scrambleId": "76525",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B' U B' L U' L U R L B U' l' r b",
+        "scrambleId": "76526",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U L' B L' B R B R' U B U u l' r",
+        "scrambleId": "76527",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B R U' B' U L B U' R' L U l r b",
+        "scrambleId": "76528",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "B L' R' B' R B' L B' L' U' R u l b",
+        "scrambleId": "76529",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "U' B R U R' L R L' B' R B' r b",
+        "scrambleId": "76530",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U R B L' B' U L B' L' B L' l r",
+        "scrambleId": "76531",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L U' L U L' U R B R' L' U' u l r",
+        "scrambleId": "76532",
+        "isExtra": 1,
+        "groupId": "B"
+      }
+    ]
+  }
+}

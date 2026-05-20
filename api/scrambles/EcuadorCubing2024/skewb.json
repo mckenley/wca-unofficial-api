@@ -1,0 +1,106 @@
+{
+  "eventId": "skewb",
+  "competitionId": "EcuadorCubing2024",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "R B L R U B' R B' L R' L'",
+        "scrambleId": "3503963",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B U' B' U' B' U L' U' L' R' U",
+        "scrambleId": "3503964",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "U R B R U' R L' U' L U R",
+        "scrambleId": "3503965",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L B R' B' U R B' L' B R' B",
+        "scrambleId": "3503966",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "U B U' R B' U' B R B U L'",
+        "scrambleId": "3503967",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U R L U' R' L' U' B' L' R L'",
+        "scrambleId": "3503968",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R U L R B L' R' L B' R' B",
+        "scrambleId": "3503969",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R L R U L' U R B' L' R' L'",
+        "scrambleId": "3503970",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R L R U' B' U R B L B' L",
+        "scrambleId": "3503971",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B L' U R' U' R L B' L' R U",
+        "scrambleId": "3503972",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "B U B L R B' L' B L' R B",
+        "scrambleId": "3503973",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "B L U L U' B L' B' R' L R",
+        "scrambleId": "3503974",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B R B' U' R B' U B U' B' R",
+        "scrambleId": "3503975",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B L R U' L U' B' R' L B' R'",
+        "scrambleId": "3503976",
+        "isExtra": 1,
+        "groupId": "B"
+      }
+    ]
+  }
+}

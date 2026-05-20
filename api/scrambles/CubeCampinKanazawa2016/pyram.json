@@ -1,0 +1,57 @@
+{
+  "eventId": "pyram",
+  "competitionId": "CubeCampinKanazawa2016",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "U B R' U' B' L' R' U R' L' U u' l",
+        "scrambleId": "340662",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B' U B' L R' B U B' U R' L' u' r' b'",
+        "scrambleId": "340663",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "R' B' R' U B R' U' L R L' U' u' l b'",
+        "scrambleId": "340664",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "U' R B' U' R' L R L R' B' R l' r'",
+        "scrambleId": "340665",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "U' R' L' R' U L' B U' L R' B u' l r",
+        "scrambleId": "340666",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L B' U' B U' B L R' B U' B l' r b'",
+        "scrambleId": "340667",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L' U' B U' L R' B' L B' L R u' l' r' b'",
+        "scrambleId": "340668",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

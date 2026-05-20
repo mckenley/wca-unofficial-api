@@ -1,0 +1,43 @@
+{
+  "eventId": "333bf",
+  "competitionId": "CubeIA2018",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "U2 B' U2 F' R2 F D2 F' U2 F' D L' F2 U L' D L' F' U R' D Rw",
+        "scrambleId": "753266",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B2 U2 B' D2 B D2 B2 R' B L B2 F' L2 R F U L2 F' Rw",
+        "scrambleId": "753267",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L2 R2 D2 R2 B U2 B' R2 F2 D L U' B' D' R B2 R' U F D Fw",
+        "scrambleId": "753268",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U2 B U2 F U2 B L2 R2 D2 B2 D' B' L' D L R F' D' L R' Uw",
+        "scrambleId": "753269",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "F2 R2 F2 U F2 L2 D2 B2 L' U' L2 D R' B' D2 R D R B' Uw2",
+        "scrambleId": "753270",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

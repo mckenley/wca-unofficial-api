@@ -1,0 +1,57 @@
+{
+  "eventId": "skewb",
+  "competitionId": "IdahoOpen2014",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "L R L U' B' U' R B' U B' R'",
+        "scrambleId": "92203",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R L' U R B' R B' U R U",
+        "scrambleId": "92204",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L R B L' B' U' L U' L' B' L'",
+        "scrambleId": "92205",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L R B' R' U B' L R' U B R'",
+        "scrambleId": "92206",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L R L R B' U' L B U L B",
+        "scrambleId": "92207",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L R L R B' L' B R' U R' U'",
+        "scrambleId": "92208",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R L' R U' B' R' U B R' L",
+        "scrambleId": "92209",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

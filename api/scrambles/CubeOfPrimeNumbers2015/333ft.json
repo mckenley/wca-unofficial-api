@@ -1,0 +1,43 @@
+{
+  "eventId": "333ft",
+  "competitionId": "CubeOfPrimeNumbers2015",
+  "rounds": {
+    "c": [
+      {
+        "scrambleNum": "1",
+        "scramble": "R2 D2 B U2 L2 F2 L2 B' F R D' U2 R D L' R2 U' B' L",
+        "scrambleId": "135554",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B2 D2 U' F2 L2 U B2 R2 F D L' B2 U F R2 B2 L' D2 U",
+        "scrambleId": "135555",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "D B2 R2 F2 U F2 D' B2 F R U B' L F' U' F' U2 F2 D' R2",
+        "scrambleId": "135556",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L F2 L' U2 L' D2 R2 D2 U2 R D2 B L' R2 B2 R2 U L2 R D",
+        "scrambleId": "135557",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B2 U2 L2 R2 F L2 B' L2 B2 D R2 B L' F' L2 D' F' L2 D' B",
+        "scrambleId": "135558",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

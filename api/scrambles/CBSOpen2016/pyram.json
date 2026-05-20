@@ -1,0 +1,57 @@
+{
+  "eventId": "pyram",
+  "competitionId": "CBSOpen2016",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "B' L' R B' R U B' L' U' B L' u l r b",
+        "scrambleId": "279231",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B U R B' U R' B R' U' R B u' l r'",
+        "scrambleId": "279232",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "U L' U' R U' R' B L' B R' L' r' b'",
+        "scrambleId": "279233",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "B U L R U' B' L U' R L B' l' r b'",
+        "scrambleId": "279234",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "U R' L U R' L' U' R' U' R' L' l",
+        "scrambleId": "279235",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B' U' B' R L U L' B' R U' L u' r' b'",
+        "scrambleId": "279236",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U B U L' U L' B' R' U' R' U u r b'",
+        "scrambleId": "279237",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

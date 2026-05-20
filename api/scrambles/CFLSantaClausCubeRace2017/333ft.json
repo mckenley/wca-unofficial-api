@@ -1,0 +1,43 @@
+{
+  "eventId": "333ft",
+  "competitionId": "CFLSantaClausCubeRace2017",
+  "rounds": {
+    "c": [
+      {
+        "scrambleNum": "1",
+        "scramble": "D L2 D R2 D F2 R2 F2 U F2 U' L' B L2 B2 R' B D2 L U",
+        "scrambleId": "669547",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "D' B2 F2 L2 D' B2 D2 B2 F2 D' L D L2 R F' U2 F U' R2",
+        "scrambleId": "669548",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "D L' F2 R2 U' B R' F' R U2 L U2 R B2 U2 R U2 R",
+        "scrambleId": "669549",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B2 L2 R2 U2 L2 F2 U2 B L2 F' D' F' U2 F2 R U L2 R F L'",
+        "scrambleId": "669550",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U2 R2 B L2 R2 U2 F' L2 B' D B2 L2 R' F' L2 B' U2 L D R'",
+        "scrambleId": "669551",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

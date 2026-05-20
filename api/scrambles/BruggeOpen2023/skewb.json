@@ -1,0 +1,106 @@
+{
+  "eventId": "skewb",
+  "competitionId": "BruggeOpen2023",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "L R B R L U' L B L U' R'",
+        "scrambleId": "2558890",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U R B L' R' L R' L B R U'",
+        "scrambleId": "2558891",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "R B U R L' B' R U R' L' U'",
+        "scrambleId": "2558892",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "U L R' B' L' R' L B R' L' U'",
+        "scrambleId": "2558893",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "U L U' L' U' R' L U L' R' L",
+        "scrambleId": "2558894",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L R B R U B' U' B' R' B' U'",
+        "scrambleId": "2558895",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R L R' B U R L' R U' L' R'",
+        "scrambleId": "2558896",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U L U' R L' U B L U' B U",
+        "scrambleId": "2558897",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L B R U L' U B' U B' R' B'",
+        "scrambleId": "2558898",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B R L' U' L' B' U R U' R L'",
+        "scrambleId": "2558899",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L R' U' B' R L' R B U' B' U'",
+        "scrambleId": "2558900",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L R B' U L R U' R B' U' B",
+        "scrambleId": "2558901",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L U B R U B' R L U' B R",
+        "scrambleId": "2558902",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L B U' R' B' U R' L R' B L'",
+        "scrambleId": "2558903",
+        "isExtra": 1,
+        "groupId": "B"
+      }
+    ]
+  }
+}

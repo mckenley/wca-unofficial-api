@@ -1,0 +1,108 @@
+{
+  "eventId": "skewb",
+  "competitionId": "GloriosoSanCarlos2019",
+  "rounds": {
+    "d": [
+      {
+        "scrambleNum": "1",
+        "scramble": "B L R' L R U' R B' L' R B",
+        "scrambleId": "1025909",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B L R' U' R U' L R B' L' R'",
+        "scrambleId": "1025910",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "U B R U' R U L R' L U L",
+        "scrambleId": "1025911",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "R B U' B L' U B' R L R L'",
+        "scrambleId": "1025912",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "R B R' L R L U' R U' R U",
+        "scrambleId": "1025913",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R B R L R L U' L U' L' U'",
+        "scrambleId": "1025914",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B L B L U R' U B' U' R U",
+        "scrambleId": "1025915",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ],
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "R U L' U B U L B L U' R'",
+        "scrambleId": "1025916",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R U B' R' B R U' R' B' L",
+        "scrambleId": "1025917",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L R B L' U R' B' L' B' U' R",
+        "scrambleId": "1025918",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "U B U' B U' L R L' B U' L'",
+        "scrambleId": "1025919",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "U L U' L B' L R B L B' U",
+        "scrambleId": "1025920",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U L B R' L R U R' B' U' B'",
+        "scrambleId": "1025921",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L U B R U' B R B L B' R'",
+        "scrambleId": "1025922",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

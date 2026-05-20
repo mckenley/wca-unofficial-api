@@ -1,0 +1,106 @@
+{
+  "eventId": "pyram",
+  "competitionId": "CSPOpen2014",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "U' B R' U L' B' U R' U B' U' u' l r b",
+        "scrambleId": "6973",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R' U R L' R U' R' B' U' B' L u' l r' b'",
+        "scrambleId": "6974",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B' U R B' L B R' L U' R' L' l' r b'",
+        "scrambleId": "6975",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "U L' U' B' U' L U B' R L R' u l r' b'",
+        "scrambleId": "6976",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L' R U' L' U' L' U' B' R L' R' u' r' b'",
+        "scrambleId": "6977",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U B U' R B R' B' L' B R B' u l'",
+        "scrambleId": "6978",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U' L' R' B' R B' R' U' R L B u l r b'",
+        "scrambleId": "6979",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R B U' L' B R B L U' L' B' u l r b'",
+        "scrambleId": "6980",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L U L' U B L' B R' L U L' u l r' b'",
+        "scrambleId": "6981",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B' U' R U' R' L R U' R L R' u l",
+        "scrambleId": "6982",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "R' B' U R B U B' R' B R' U l' b",
+        "scrambleId": "6983",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "R' U' R' U R' U' L B' R' U R b'",
+        "scrambleId": "6984",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R' U' L' U B' L' B' L' R' L' U u b'",
+        "scrambleId": "6985",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B' R' B U B R U' R U' R' U' u l' r",
+        "scrambleId": "6986",
+        "isExtra": 1,
+        "groupId": "B"
+      }
+    ]
+  }
+}

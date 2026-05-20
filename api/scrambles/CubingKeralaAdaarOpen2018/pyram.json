@@ -1,0 +1,57 @@
+{
+  "eventId": "pyram",
+  "competitionId": "CubingKeralaAdaarOpen2018",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "L B' L' R U L' B U' B L' R' u' r",
+        "scrambleId": "759984",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B' L' R' L U L' U' R L U R l' r'",
+        "scrambleId": "759985",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "R' L' U' L U' L' U B' L U' R l' r'",
+        "scrambleId": "759986",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "B L U R' B U' L U' B R' L' u l' r b",
+        "scrambleId": "759987",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L U' L U' L B' U L' R L' U u' l r b'",
+        "scrambleId": "759988",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R' U' R B U B' L' U' L R U",
+        "scrambleId": "759989",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R B' L U' L B U' B L U' R l b'",
+        "scrambleId": "759990",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "eventId": "333bf",
+  "competitionId": "IGARubik2014",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "B U2 B R2 B' R2 B2 L2 B' D L R B D2 B2 R' U B2 F Rw2 Uw'",
+        "scrambleId": "56496",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "D2 F' D2 R2 B2 D2 B' D2 L2 R2 F2 L' D2 F2 R' U' B2 D' B' U L Fw Uw'",
+        "scrambleId": "56497",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "U R2 D U' R2 B2 F2 U' L2 F2 R' D2 L U2 L2 U B' R2 U2 L2 F' Rw Uw2",
+        "scrambleId": "56498",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R2 D U2 F2 L2 D2 U' L2 U2 R F' L2 R' B2 D' B R' B' F2 D Fw' Uw2",
+        "scrambleId": "56499",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "D2 L' F2 R' B2 D2 U2 L' D2 L2 B2 D R B F L' D' L' R2 D2 L' Fw Uw",
+        "scrambleId": "56500",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

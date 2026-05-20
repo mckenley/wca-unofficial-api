@@ -1,0 +1,108 @@
+{
+  "eventId": "skewb",
+  "competitionId": "HefeiOpen2015",
+  "rounds": {
+    "d": [
+      {
+        "scrambleNum": "1",
+        "scramble": "L R L B' U B U B' L R B",
+        "scrambleId": "164581",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R L B' R' L U' B' R U R'",
+        "scrambleId": "164582",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L R L B' R' B' R L B U' L",
+        "scrambleId": "164583",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L R L' B R B' R B' L R L'",
+        "scrambleId": "164584",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L R L' R' L' U' L' U' L' B' R'",
+        "scrambleId": "164585",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L R B R B U' B' L' U' L R",
+        "scrambleId": "164586",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R L B' R L' U' L' B L U",
+        "scrambleId": "164587",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ],
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "L R U' R' U' B L' B U R U",
+        "scrambleId": "164588",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R L' R' B' R L' B R B' L",
+        "scrambleId": "164589",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L R L U L B' R' L' B' U R",
+        "scrambleId": "164590",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L R' B U R' B L R L U B'",
+        "scrambleId": "164591",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L R B R' B L' B' U' L U L",
+        "scrambleId": "164592",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L R L' R' U' L B' L B L R'",
+        "scrambleId": "164593",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R B' L' R U' B' R B' L U",
+        "scrambleId": "164594",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

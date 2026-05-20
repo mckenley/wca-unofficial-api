@@ -1,0 +1,106 @@
+{
+  "eventId": "skewb",
+  "competitionId": "BinghamtonCubeDay2025",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "R B L B L R U L' R L' B'",
+        "scrambleId": "4608308",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B L U R B' R L U R' L' U",
+        "scrambleId": "4608309",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "R B R U L R' U' L' B' L' R",
+        "scrambleId": "4608310",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "R B' R L B U B' U B' R' L'",
+        "scrambleId": "4608311",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "R U R U' R' L B' U' L U' R",
+        "scrambleId": "4608312",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U B U B U' R' L B' U L' B",
+        "scrambleId": "4608313",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B R B R' L B' L B' U' L' R'",
+        "scrambleId": "4608314",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L R B L' R B' U B' U' B L'",
+        "scrambleId": "4608315",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B L R B U R' U' R U R B'",
+        "scrambleId": "4608316",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B L U B R L' B' L U B' R",
+        "scrambleId": "4608317",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "B R' U' R U' L' R' L' R' L' R",
+        "scrambleId": "4608318",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L U L U' L' R U' B' L' R L",
+        "scrambleId": "4608319",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L U B L' B L R L R' B' R'",
+        "scrambleId": "4608320",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B R U R' L U' R' B' L' B U'",
+        "scrambleId": "4608321",
+        "isExtra": 1,
+        "groupId": "B"
+      }
+    ]
+  }
+}

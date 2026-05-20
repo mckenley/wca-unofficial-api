@@ -1,0 +1,106 @@
+{
+  "eventId": "skewb",
+  "competitionId": "Julekubing2024",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "U L U' R U L' R' L' U' L' B'",
+        "scrambleId": "4404962",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B L B R' B' U R L' B U L",
+        "scrambleId": "4404963",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "U R L R B U R' L U' R' L'",
+        "scrambleId": "4404964",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "R B U' R' B R' U B' R' U B'",
+        "scrambleId": "4404965",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "U L' B' R U B U' R' U B R",
+        "scrambleId": "4404966",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B R U' B' U' L U L' B U R",
+        "scrambleId": "4404967",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B U R' U L' B' L B L' B' L",
+        "scrambleId": "4404968",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L R' U B R L' R' B L' B R",
+        "scrambleId": "4404969",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B R L' B' R U B' U' B U L'",
+        "scrambleId": "4404970",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L R L R' B' R' B L U L' R",
+        "scrambleId": "4404971",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L R U' B U R U' L B' R' L'",
+        "scrambleId": "4404972",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "U L B' L B' U L' B' R' L B",
+        "scrambleId": "4404973",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L U L B R' L' B L U' B U",
+        "scrambleId": "4404974",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B U B R U' B L' U B U' L'",
+        "scrambleId": "4404975",
+        "isExtra": 1,
+        "groupId": "B"
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "eventId": "skewb",
+  "competitionId": "CubingUniversalSanJose2022",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "U L B' R' L R' U L' U B' R",
+        "scrambleId": "2301292",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R U B L' R' U' L R' U' B R",
+        "scrambleId": "2301293",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L B R U R' L B U L' R' L",
+        "scrambleId": "2301294",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L B U B' L' U' B U' L' R' L",
+        "scrambleId": "2301295",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L R L' R' U B' R' U' B L' R'",
+        "scrambleId": "2301296",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B R L R B U' B' R B' R L'",
+        "scrambleId": "2301297",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U R B L' B' U R B' L U' L'",
+        "scrambleId": "2301298",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U L U R U L R B R' L' B",
+        "scrambleId": "2301299",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B L R B R' B L U' B L U'",
+        "scrambleId": "2301300",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L R B' U B' U R B' L U B'",
+        "scrambleId": "2301301",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "R B L B U' B L R' L' B R",
+        "scrambleId": "2301302",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L R U' B' R' L B L R' B' L'",
+        "scrambleId": "2301303",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U R L R U' R' B R' L' U' B'",
+        "scrambleId": "2301304",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U L B' L B' U B' L R B R'",
+        "scrambleId": "2301305",
+        "isExtra": 1,
+        "groupId": "B"
+      }
+    ]
+  }
+}

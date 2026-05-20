@@ -1,0 +1,78 @@
+{
+  "eventId": "333bf",
+  "competitionId": "IrishChampionship2015",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "F2 L2 F D2 R2 F' U2 R2 F' U2 L D2 R' U B F L R2 U R D' Fw Uw",
+        "scrambleId": "161015",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L2 F2 L2 F2 U' L2 D U F L2 U' R U' L F' R' F U' F' Rw2 Uw'",
+        "scrambleId": "161016",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "F2 R2 U' B2 R2 D2 F2 L2 D2 R2 U F R B2 D' R2 U' R F' U R2 Uw2",
+        "scrambleId": "161017",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "F2 D L2 B2 D U L2 D B F L F U' L' D' F' L' U L' D Rw",
+        "scrambleId": "161018",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "F2 D' R2 D F2 L2 D2 R2 F2 L' F U' B L' U B' D' L F'",
+        "scrambleId": "161019",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L2 F2 D2 B' L2 F U2 B D2 B2 R2 D B' F2 U R' U' B' D2 F U Fw'",
+        "scrambleId": "161020",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "D' L2 D B2 F2 D2 U' L2 D' B R F' L' F' U2 L2 B2 D R2 U' Rw2 Uw2",
+        "scrambleId": "161021",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B2 L2 D2 F' U2 L2 B U F2 L D B L F' L R' U' F Rw2 Uw2",
+        "scrambleId": "161022",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B2 U2 L2 B2 D2 R F2 D2 L2 U2 R' U' B2 R2 F' U2 L D2 U' L' U2 Rw Uw",
+        "scrambleId": "161023",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U' R2 D' U2 L2 D B2 R B D U B F' R' B F' R2 F2 Rw2 Uw",
+        "scrambleId": "161024",
+        "isExtra": 1,
+        "groupId": "B"
+      }
+    ]
+  }
+}

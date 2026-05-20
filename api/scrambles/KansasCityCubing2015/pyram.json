@@ -1,0 +1,106 @@
+{
+  "eventId": "pyram",
+  "competitionId": "KansasCityCubing2015",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "U B U' B U R' L U' B' L R r'",
+        "scrambleId": "215300",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B' L' U' B U R' L U' B' R B u l' b",
+        "scrambleId": "215301",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "U L' B R U' B' U' B L' R' U u l b'",
+        "scrambleId": "215302",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L' B L R' B' L' R' L' R' B' R' u r' b",
+        "scrambleId": "215303",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "B L R' U' B' R B' L U R U l'",
+        "scrambleId": "215304",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B' R' B' L B' U' R L' B R' L u l r b'",
+        "scrambleId": "215305",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R L' R' U' L' R B U L' U B' u l' r b'",
+        "scrambleId": "215306",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R L U' L' B' L' B R' L' U R u r' b'",
+        "scrambleId": "215307",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R' B' L' R' L' B R' L B U B' u l b'",
+        "scrambleId": "215308",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B' L B' U' L' U' B L' B' R' L' u l b",
+        "scrambleId": "215309",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "B R' B L' U' R' B R' L R L' u' l b'",
+        "scrambleId": "215310",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "B' U' R L' U B L' B' U L U",
+        "scrambleId": "215311",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R' U B' R U B' R B U L' U u l r' b",
+        "scrambleId": "215312",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R' B U R U' L U' B' R U' L u l r b'",
+        "scrambleId": "215313",
+        "isExtra": 1,
+        "groupId": "B"
+      }
+    ]
+  }
+}

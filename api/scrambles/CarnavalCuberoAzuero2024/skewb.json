@@ -1,0 +1,106 @@
+{
+  "eventId": "skewb",
+  "competitionId": "CarnavalCuberoAzuero2024",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "R U B' R' B' R U' B U' R B'",
+        "scrambleId": "3535238",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U L U B' L' B U' R B U B'",
+        "scrambleId": "3535239",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "U B U R U B' R' L' R U R'",
+        "scrambleId": "3535240",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L U L R' U R B' R' B R' L",
+        "scrambleId": "3535241",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "B U B' U' R' B R' B L R B'",
+        "scrambleId": "3535242",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R B' R L' R B' U' B L' U' R",
+        "scrambleId": "3535243",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R U' L R' L' B' L' U' L U'",
+        "scrambleId": "3535244",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R L R' B U L' B' R U R' L",
+        "scrambleId": "3535245",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U B R U L R' L' R B L' R",
+        "scrambleId": "3535246",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "R B U R' B L U B L B' L",
+        "scrambleId": "3535247",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "U R B L' R L' B R L U B",
+        "scrambleId": "3535248",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L R L R U' R B' U R' L' U",
+        "scrambleId": "3535249",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L R B R' U B R' L' R L' B'",
+        "scrambleId": "3535250",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U L B R' B U' B' R' L' R U'",
+        "scrambleId": "3535251",
+        "isExtra": 1,
+        "groupId": "B"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "eventId": "333bf",
+  "competitionId": "GuateRubik2014",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "L B2 R2 U2 F2 U2 L' B2 L' B2 D' F' R F L B U B2 D2 U2 Rw'",
+        "scrambleId": "5745",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R2 U2 L' U2 B2 L' F2 L U2 B2 U' L R' D2 U' B R D' F' U B' Rw'",
+        "scrambleId": "5746",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "D2 R2 B2 D2 R2 U' B2 U2 F R B2 F R U' B D' U2 R2 U' Fw' Uw",
+        "scrambleId": "5747",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U2 B2 U2 L' D2 L' R2 F2 R D2 U2 F' R2 D L' R' F' R B D2 F Rw",
+        "scrambleId": "5748",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L2 U2 F2 R2 D R2 U2 B' D' U L R2 U F R' U' B2 F' Uw'",
+        "scrambleId": "5749",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

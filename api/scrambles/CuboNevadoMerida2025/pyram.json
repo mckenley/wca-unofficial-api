@@ -1,0 +1,106 @@
+{
+  "eventId": "pyram",
+  "competitionId": "CuboNevadoMerida2025",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "R L' R B' L' R U L' B L' U b'",
+        "scrambleId": "5276467",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B U' L B L' R' L R U B' R' b'",
+        "scrambleId": "5276468",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L U R' L U' L' R L' U' R' U u' l b",
+        "scrambleId": "5276469",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "U L' B R' U R B U B' R' U l r'",
+        "scrambleId": "5276470",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "B U' R L B' U R U B L U' u r'",
+        "scrambleId": "5276471",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R' L U L B L R' L' B' L' U u' r'",
+        "scrambleId": "5276472",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R' B' L U R' B' L U R' B' R u' l' b'",
+        "scrambleId": "5276473",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B L R L' B R L R B' R' L' u' r'",
+        "scrambleId": "5276474",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B L' U' L R L' R U' B L' U l'",
+        "scrambleId": "5276475",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "U L B R' B R' L B' L' R' U' l r' b",
+        "scrambleId": "5276476",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L' B' L' U B' R L' R' L' U' L u l b'",
+        "scrambleId": "5276477",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "B R' U B U' B R' L R' U B u' r",
+        "scrambleId": "5276478",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L' U B' L' R L' B' R B' U B' r",
+        "scrambleId": "5276479",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L' R B' R' U' B R B L' R' L u r b'",
+        "scrambleId": "5276480",
+        "isExtra": 1,
+        "groupId": "B"
+      }
+    ]
+  }
+}

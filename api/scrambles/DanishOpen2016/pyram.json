@@ -1,0 +1,108 @@
+{
+  "eventId": "pyram",
+  "competitionId": "DanishOpen2016",
+  "rounds": {
+    "1": [
+      {
+        "scrambleNum": "1",
+        "scramble": "U' R' L' R' B' U' B' R B L B u l b'",
+        "scrambleId": "312312",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B U' R' L' U L B' R' U R U u' l r",
+        "scrambleId": "312313",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L' U L' B L R' U B' U' R' B' u' l' b",
+        "scrambleId": "312314",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "B U B' R' L R' U R' L B' R' l' r",
+        "scrambleId": "312315",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "R' L' U' R B R B R' L R' B' u l r b'",
+        "scrambleId": "312316",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U L R L B' U' R' B U' L' R' u' l' r",
+        "scrambleId": "312317",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R B' L R' L' B R L R L' U l' r' b'",
+        "scrambleId": "312318",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ],
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "U' R L R U' B R U' R' L R' u l r'",
+        "scrambleId": "312319",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U L' U' B' R' B L' U L' B' L l'",
+        "scrambleId": "312320",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "R' B L B R' U' L' U L U' B u r'",
+        "scrambleId": "312321",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "B L B U B' U B U' B U' B' u r' b",
+        "scrambleId": "312322",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "B L' B U B L' R' L' B' R' L' u' l",
+        "scrambleId": "312323",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B' R' L B' R U' B' U' B' L B' u' r'",
+        "scrambleId": "312324",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B U' R' B' U' R' B' U R' L' U l' r'",
+        "scrambleId": "312325",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

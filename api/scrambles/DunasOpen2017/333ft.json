@@ -1,0 +1,43 @@
+{
+  "eventId": "333ft",
+  "competitionId": "DunasOpen2017",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "R2 B' D' L F' U L' B' U2 L' F L2 U2 R2 F U2 L2 B' R2 L2",
+        "scrambleId": "501600",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U2 F2 U F2 U2 F2 R2 D F2 U' R' B R F' R' F L2 R D U2",
+        "scrambleId": "501601",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "F L2 D' F2 L F' R2 F R' F' D R2 L2 U' R2 B2 U F2 U",
+        "scrambleId": "501602",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U2 B2 L2 B2 L2 D B2 U2 F2 L2 U' L' U' F' D2 U F U F U",
+        "scrambleId": "501603",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "D2 R2 F2 L B' L U D2 F' B2 L2 D' L2 U B2 R2 L2 U R2",
+        "scrambleId": "501604",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "eventId": "pyram",
+  "competitionId": "GermanBigCubeOpen2019",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "U R' U' B' R' L B' R' B' L' B' l r'",
+        "scrambleId": "1370104",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L' B R U' R' B' R' L' R' L' U' u' l' r'",
+        "scrambleId": "1370105",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B R L B' L R B R L R U b'",
+        "scrambleId": "1370106",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "B' L B L R' U R' U' L R' L' u r'",
+        "scrambleId": "1370107",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L U' B' U' B R' U' B' R' U L l' r b",
+        "scrambleId": "1370108",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R U' L U' L R B' R' L B U l' r",
+        "scrambleId": "1370109",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L' U B' U' L' B' U' L R L' U u l",
+        "scrambleId": "1370110",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L' R L' B' L U R' B' L U R' u' l' r",
+        "scrambleId": "1370111",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U' L' B R L' B' R' B' U B' U' u' l'",
+        "scrambleId": "1370112",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "U L' R' B L' U B' L' R U R' u r b",
+        "scrambleId": "1370113",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "R B' L R' U R' B U R U R u r b",
+        "scrambleId": "1370114",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "R' B' L' R B U' L' U' L' B' L u' l r'",
+        "scrambleId": "1370115",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U' B L U R' B U' L U' L R' u' l' r",
+        "scrambleId": "1370116",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B' L B' U' R B' U R U' B' R' u' l b",
+        "scrambleId": "1370117",
+        "isExtra": 1,
+        "groupId": "B"
+      }
+    ]
+  }
+}

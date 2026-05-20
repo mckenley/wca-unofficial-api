@@ -1,0 +1,106 @@
+{
+  "eventId": "pyram",
+  "competitionId": "ConstantaCubeDay2014",
+  "rounds": {
+    "c": [
+      {
+        "scrambleNum": "1",
+        "scramble": "L' U' L R' B' L' B' L R' U L' u",
+        "scrambleId": "54418",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L' U L' R' U L U' B R' L R' u'",
+        "scrambleId": "54419",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "U R B' U' L' R' U B' R' L' B' u l r'",
+        "scrambleId": "54420",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "B' R' B L' U R' L R L U' R u l r b",
+        "scrambleId": "54421",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L' R' B U R L' R U' B' R' L u' r'",
+        "scrambleId": "54422",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L' U R L' R' B' L' U B L' U u l' r",
+        "scrambleId": "54423",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U' B' L' R U' L R' B U B' U' u' l' b'",
+        "scrambleId": "54424",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L' U' R U R L' R' B U' B R u' l' r'",
+        "scrambleId": "54425",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R' U B' U L' R L' U B' R' B' l r' b",
+        "scrambleId": "54426",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L' R' B R' U' B' L R' L' B' U u' l' r",
+        "scrambleId": "54427",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L' U B L R' B R' L U' L' B r' b",
+        "scrambleId": "54428",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "B R' B U' R' L' U' R' B R' U u l' b",
+        "scrambleId": "54429",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L' B U' L U' L U' R' L U' B' u l' r' b'",
+        "scrambleId": "54430",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L' B' U L' B U' L' R U R' L' r' b'",
+        "scrambleId": "54431",
+        "isExtra": 1,
+        "groupId": "B"
+      }
+    ]
+  }
+}

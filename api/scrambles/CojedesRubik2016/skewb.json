@@ -1,0 +1,106 @@
+{
+  "eventId": "skewb",
+  "competitionId": "CojedesRubik2016",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "U R U L' B R' L B R' B' L'",
+        "scrambleId": "401102",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L B L' R U R' U R' L' B L",
+        "scrambleId": "401103",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L U L U' B' R U L' R U' L",
+        "scrambleId": "401104",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "U L U' L U R L U' R' U' B",
+        "scrambleId": "401105",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "U L U B' R L' B U' B U' B",
+        "scrambleId": "401106",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L R B U L' U B R L U B",
+        "scrambleId": "401107",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U B U B R L' R B L' U' R",
+        "scrambleId": "401108",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R B U L R L' B U' R U L",
+        "scrambleId": "401109",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B R U L' B U B L' R B U",
+        "scrambleId": "401110",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "U L B' R' L U' L' R' U R U'",
+        "scrambleId": "401111",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L U L R' U' B L U L' U R",
+        "scrambleId": "401112",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "B L U R U R' B R B' R' L'",
+        "scrambleId": "401113",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B U L R' U' L' R U' L B R'",
+        "scrambleId": "401114",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B L R B' R U' B L U' L' B",
+        "scrambleId": "401115",
+        "isExtra": 1,
+        "groupId": "B"
+      }
+    ]
+  }
+}

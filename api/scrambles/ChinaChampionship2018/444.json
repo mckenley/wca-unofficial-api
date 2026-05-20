@@ -1,0 +1,749 @@
+{
+  "eventId": "444",
+  "competitionId": "ChinaChampionship2018",
+  "rounds": {
+    "2": [
+      {
+        "scrambleNum": "1",
+        "scramble": "R2 L' D R2 U2 F2 L' B' F' D' L2 B2 R B2 L' B2 R F2 D2 Rw2 Fw2 L F Rw2 R' Fw2 R2 U2 Rw2 B' Uw2 L' D' R' Uw Rw2 Uw' U' Fw D' Rw2 U' F' Uw2 Fw2",
+        "scrambleId": "891827",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B2 L2 F L2 U' D B U2 L' B R' U2 F2 R2 F R2 F R2 B' R2 Uw2 F' Uw2 L2 F U' Fw2 U Rw2 U2 Rw L' D2 B L D2 U Fw Rw' Uw' F Uw' R F2",
+        "scrambleId": "891828",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B2 R2 B2 L2 F2 U2 B U2 F' D' F2 R' U F U B' R2 U2 B2 F' Fw2 D Rw2 L2 Fw2 L D' L' R U Fw2 Rw2 B2 Fw' D2 Fw' U F2 Rw' Uw R2 U2 F' Rw2 D2",
+        "scrambleId": "891829",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "B2 R D2 U2 F2 L2 R' B2 R U' F D' L' R' U B2 R2 B D' U2 Rw2 U' L2 Uw2 Rw2 U' R2 B Uw2 F2 U2 R2 Rw' Uw2 F2 D R' Uw2 D2 Fw L2 Uw' Fw' F'",
+        "scrambleId": "891830",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "R B2 L U2 R2 U2 L F U2 D R D2 F L2 U' L D B' Rw2 Fw2 R Uw2 F' R L' Uw2 B' D2 Fw2 F Uw' F D R2 Uw R' Fw' F2 Uw' F B Uw' Fw'",
+        "scrambleId": "891831",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B2 F2 D' F2 D2 B2 U L2 F R2 U R D B2 L2 F2 U' B2 Rw2 Fw2 R2 Fw2 F' U' R2 L2 D2 Fw2 U' F' Rw' F' R F' L Uw' B Uw2 R B' Rw Uw B2",
+        "scrambleId": "891832",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L2 B2 L2 B2 U L2 D R2 B2 U' F D2 U' L' F B' D F2 U2 Rw2 U Rw2 Uw2 B' Rw2 F D2 B U' B L2 D' Rw' L' U F L' Uw2 B' Fw' Uw Fw2 Rw' F B2",
+        "scrambleId": "891833",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L2 F R2 B R2 F L2 F' U2 F U' B F2 L D' F2 U' B L F' Uw2 B' D Rw2 B' U Rw2 U' B L2 B' D' Rw' D' Fw2 F2 Rw U B2 Fw D R' Fw2 Rw' F2",
+        "scrambleId": "891834",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "D2 R2 B' U2 B' R2 F U2 F' R B R' B' D' B' R F U' L2 Rw2 U' D2 Rw2 L2 F' B D2 Rw2 F' U' Fw2 L2 Rw R' U Rw' L Uw2 B2 Fw Uw F2 Rw Fw'",
+        "scrambleId": "891835",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "F U B2 U R' L' D L2 B L' B2 R2 F2 D2 F D2 U2 R2 D2 F2 Fw2 L Uw2 R B' Uw2 R2 Uw2 L' Fw2 F2 U2 Rw2 Uw R B2 D2 R2 U Rw U' F2 Rw' Fw' Rw2 B",
+        "scrambleId": "891836",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "F2 R D2 L D2 F2 U2 B2 R B2 U F' U L' B2 L2 U' B L D2 Rw2 U Fw2 Rw2 U F2 R' Uw2 Fw2 L Fw2 U' Fw' Uw2 B' F L' Uw2 Rw' Uw' Rw2 Uw R Fw' L2",
+        "scrambleId": "891837",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "F' R2 L' U L B R F' R2 F' D F2 R2 U2 F' R2 L2 B R2 U2 Fw2 R B2 Uw2 R Uw2 F Uw2 Fw2 L2 F' L2 R2 Uw F2 L' Fw2 B Uw Rw2 Fw' Uw' F R2 D",
+        "scrambleId": "891838",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "F' U2 L2 R D2 B U R' B' R U F2 U2 F2 R2 B' D2 R2 B2 D2 Rw2 U' Fw2 B2 Uw2 Fw2 R L' D' Rw2 U R2 F2 Fw B R B D Uw Fw2 R D Fw' D2 Fw",
+        "scrambleId": "891839",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R F2 L' B R D R' D L' B' L D2 R U2 B2 L' U2 D2 R' D2 Uw2 Rw2 Fw2 L2 F U Rw2 F' U Rw2 F' R2 Rw F2 U R' F' Uw Rw L D' Fw D Fw B",
+        "scrambleId": "891840",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L' U2 B D2 F U F L B2 U' F2 U R2 U2 L2 D L2 U' R2 Rw2 Fw2 L2 B' Rw2 R' L2 Fw2 B' Rw2 F B2 Uw B' D' F2 Uw Fw2 Rw F U' Rw2 B F",
+        "scrambleId": "891841",
+        "isExtra": 0,
+        "groupId": "C"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L' R B' R F B U L' F2 U2 L' F2 L2 D2 B U2 D2 B D2 B2 Uw2 Fw2 D' R2 B2 Rw2 F2 U' B' U' L2 D Rw R' F' Rw2 R2 Uw Rw L Fw' Rw' L' F' B2",
+        "scrambleId": "891842",
+        "isExtra": 0,
+        "groupId": "C"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "D2 F2 R2 F2 R2 B L2 D2 F L' B U R U2 R' B F' R U D Rw2 Uw2 U2 L' Fw2 F2 U' R' Fw2 R U2 R' B2 Fw' R2 F Uw2 Fw2 D' Rw F Uw R2 Uw2 Rw2 Uw",
+        "scrambleId": "891843",
+        "isExtra": 0,
+        "groupId": "C"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "R2 F2 L2 F' R2 D2 F' U L2 B2 R2 F' U2 R D2 R2 F' Rw2 Uw2 U R2 D2 B Uw2 B' Uw2 D2 Rw2 F L2 R' B' Rw B' Uw' Rw Uw Rw Fw2 U' Fw' R'",
+        "scrambleId": "891844",
+        "isExtra": 0,
+        "groupId": "C"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "D B D2 F R U2 B2 R' U' F L F2 U2 B2 L2 F2 B2 U2 R2 L' Rw2 U Rw2 Uw2 B Rw2 D2 B U' Rw2 B2 U B Rw U F U' L Uw' Rw U' Rw Fw2 R Fw' D2",
+        "scrambleId": "891845",
+        "isExtra": 0,
+        "groupId": "C"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L2 B2 L2 D2 F L2 U2 B2 D2 F R' B D' F R' F2 R B2 F' R' Uw2 F' U' Rw2 Uw2 U' Rw2 F L2 D2 L2 U' Rw D2 B' Rw L2 Fw Uw2 Fw Rw' B L' Fw2 L",
+        "scrambleId": "891846",
+        "isExtra": 1,
+        "groupId": "C"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B2 D2 B L2 B2 R2 U2 F' D' L B D' U' F U R2 F' B' U Rw2 F2 B' Uw2 D2 L Fw2 Uw2 L R2 B L2 B Uw L2 Uw' U' B' Uw2 Fw' Uw2 L' R' Fw' Uw",
+        "scrambleId": "891847",
+        "isExtra": 1,
+        "groupId": "C"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L2 F2 B2 L U' F D' L B U' B D2 L2 B2 D' F2 L2 D' R2 D2 Rw2 Uw2 R B2 D' Rw2 B2 L U D B2 L' Fw' R' D' F2 Uw2 R' Uw2 Rw U F2 Rw' Uw Fw' R",
+        "scrambleId": "891848",
+        "isExtra": 0,
+        "groupId": "D"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B R2 B2 L2 D2 F2 U2 F2 U2 R' B D' B2 D' R' B' L F R Fw2 L' Fw2 D B2 R U Fw2 D L' Uw2 R' U2 Fw' D2 U R Fw' F' R Uw F Rw' R Fw2",
+        "scrambleId": "891849",
+        "isExtra": 0,
+        "groupId": "D"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L2 D2 L' D2 U2 F2 R D2 U' L F D R F2 L2 F' U L D2 Fw2 Rw2 R B R' L2 Uw2 F' D2 Fw2 R2 F Uw R L2 Uw U Rw' Uw F2 Rw' F2 D' L'",
+        "scrambleId": "891850",
+        "isExtra": 0,
+        "groupId": "D"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L' F B D' L' U' L' F B L2 U2 D' B2 D2 L2 U R2 F2 B2 L2 Rw2 U' R2 B Uw2 Fw2 B2 D' B L2 F Rw D F Rw2 Uw2 R2 Fw U2 D' Rw U2 Rw2 R'",
+        "scrambleId": "891851",
+        "isExtra": 0,
+        "groupId": "D"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "U F2 R' F U D' L D L U2 D2 F2 B' R2 U2 F R2 B D2 L2 Fw2 L' U2 Fw2 Rw2 B2 R' D Rw2 U' Rw2 U B' R Fw2 L2 Fw' R Rw' F Rw2 F' Uw' Fw F2",
+        "scrambleId": "891852",
+        "isExtra": 0,
+        "groupId": "D"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "F L2 F' U2 R2 B' U2 B' R L' D U' R F2 B' U' F' D' F' Uw2 Fw2 R B U2 R F D2 Fw2 Rw2 D2 F2 Uw' R' F' Uw Rw2 U Rw' U2 Fw Rw' U Rw Fw2",
+        "scrambleId": "891853",
+        "isExtra": 1,
+        "groupId": "D"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "F L U2 L' U F D' F R' B' R U2 L' F2 R L2 D2 L F2 Uw2 R L' F' L' Uw2 L' B D2 F Rw2 R U R' B Rw2 Uw F' Rw' Uw Fw' R D Fw' U2",
+        "scrambleId": "891854",
+        "isExtra": 1,
+        "groupId": "D"
+      }
+    ],
+    "3": [
+      {
+        "scrambleNum": "1",
+        "scramble": "L2 F2 U2 B R2 F' R2 D2 U2 L U' F2 B' L2 U2 R F' L D R2 Uw2 R2 F' Uw2 D Rw2 D' Fw2 R2 L2 U Fw2 Rw' D U2 L' D2 Fw' Rw' R' L Uw2 B R'",
+        "scrambleId": "891855",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "F2 D R2 U2 B2 L2 F2 D' B2 F' R' L B R' F' U2 F' R2 L' Fw2 Uw2 F' U Fw2 B Uw2 Rw2 L2 F' D Rw2 L' Fw2 F' Rw F D' Rw' Uw' Fw' Rw2 Uw' U' L2",
+        "scrambleId": "891856",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "R2 B2 L U2 F2 U2 L2 F2 R' U2 R' B' D B D F2 B D U' F' Fw2 R U2 D' L' Fw2 L2 D' F2 U2 Rw2 Fw Uw2 Fw U2 R2 Fw' Uw R Fw' L R2 Fw' L2",
+        "scrambleId": "891857",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "U2 L2 D2 F' D2 R2 B2 F D2 U B' R' U' L2 D F' R D' R2 F' Uw2 Fw2 R2 B U Rw2 B' U2 R2 Fw2 B U F Rw B U B2 Uw2 Fw D' Rw L2 Fw2 R U' Rw",
+        "scrambleId": "891858",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "U' B L2 R2 D2 B' D' F' L U' L' B2 L2 B2 F2 U2 F2 R2 U2 L2 Rw2 Uw2 U R2 D2 Rw2 B2 R' Uw2 L B2 Fw' U' Rw2 B2 R' F Rw Fw L' B' U Fw2 Uw",
+        "scrambleId": "891859",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "F2 B2 U2 F2 R' B2 R L2 F2 D2 B2 U F' D F' B' U' F' U2 R' Uw2 B' L U2 B2 Uw2 R Fw2 Rw2 Uw2 F2 R' B2 Uw' Fw2 F2 Uw' D2 F' Fw' Rw' Uw' B U2 L",
+        "scrambleId": "891860",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B2 U L2 D F2 R2 F2 D2 L2 B' U' L2 U2 F L R D L' U B2 Uw2 R' Fw2 B U2 L' Fw2 F L' Uw2 F Rw2 B2 Uw' Rw2 B L Uw F2 Rw' Uw' R2 B2 D2 U2",
+        "scrambleId": "891861",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "D2 U2 F' D2 L2 F2 L2 U2 F' U' L' D U' L' B' L2 F D F2 B2 Fw2 U F' Rw2 F Uw2 D' Fw2 F2 Uw2 D' B L' B' Rw' U' Uw' F' Rw B' D2 Fw R2 U",
+        "scrambleId": "891862",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R' F2 L' D B U2 B R' U R2 L' B2 R' F2 D2 R2 F2 R2 B2 D2 Rw2 D2 Fw2 L' U' Rw2 Fw2 U' F2 U D F2 Fw L' Uw2 F' L' B' Uw Rw' L F U' R2 B",
+        "scrambleId": "891863",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "U2 F2 R' B2 R2 B2 L B2 L2 D L U' F' L' F R L2 D' U L' Fw2 Rw2 U F' Uw2 R2 F' L2 D2 Rw2 B U' D2 Rw' B' L' D' L' Fw' Uw F2 Rw2 F L' B2 Rw",
+        "scrambleId": "891864",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "B F' D2 R2 F' R2 F2 R2 F' D' R' F' L F' R' B2 F2 L D F Rw2 D' Fw2 F' Uw2 U2 D' F2 U F2 B' R2 Rw Fw2 L D2 L2 B' Uw' Rw U Fw2 Uw' F U",
+        "scrambleId": "891865",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "R2 L' F U' B2 L' B' R2 D F2 U B R2 L2 F U2 F2 D2 L2 F Fw2 R2 D R L' Fw2 R U Rw2 L Fw2 L' D' Fw' R' F' R2 D R' Rw' Uw2 U' Fw' Uw' F2",
+        "scrambleId": "891866",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "D' L' F R B' D2 U' F2 L B2 D2 B D2 U2 B' U2 F' L2 U2 Uw2 Fw2 B D Rw2 B2 Rw2 D' B2 D' L2 D2 Rw' U2 Rw' D F2 Uw Rw Fw2 B U2 R Uw L",
+        "scrambleId": "891867",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "F L2 D2 B F L2 B U2 R2 U' F R2 B R D B R' U2 L U Rw2 U Fw2 F2 Uw2 D' Fw2 D' B' R2 B2 Uw2 B Rw F' L2 R2 U2 Fw Uw L' F Rw' Fw' D2 B'",
+        "scrambleId": "891868",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "F2 L' D2 U2 R' U2 R L F2 U' L U2 B R2 L D R2 D2 B2 U2 Fw2 Rw2 R Uw2 B' F L R' Uw2 Fw2 F Uw L2 R' Uw2 F' U' R Fw' Rw Uw Rw2 D' F2",
+        "scrambleId": "891869",
+        "isExtra": 0,
+        "groupId": "C"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L U2 R D2 B2 U2 L' D2 L2 F L2 F2 D' F L' D' U' R' D' Fw2 Uw2 L B D2 Rw2 L U2 R Uw2 R Fw2 F Uw R2 U R' Rw D' Rw Fw' U Rw' Uw2 F2",
+        "scrambleId": "891870",
+        "isExtra": 0,
+        "groupId": "C"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B' D2 R2 U' R L' B' R' F R2 B2 R2 U B2 F2 U' L2 U' R2 Uw2 Rw2 L B' Rw2 F' B' Uw2 B' L2 R' Fw2 U Rw2 Uw Rw2 F Uw U2 B Fw' Rw2",
+        "scrambleId": "891871",
+        "isExtra": 0,
+        "groupId": "C"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "U2 R2 L2 B R2 B R B' L' D2 B2 R' U' D F2 B' U Rw2 U' F' Uw2 Fw2 Rw2 B' Rw2 D2 L2 D2 B' U' Rw' B' D2 F2 U' Uw Fw Uw' U' Rw2 Uw2 D'",
+        "scrambleId": "891872",
+        "isExtra": 0,
+        "groupId": "C"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "D' B L D2 R B F' U' F' R D' R2 U B2 F2 L2 F2 D2 F2 U Rw2 U L' Uw2 R Fw2 B2 R' L' U2 Rw2 L' Fw' Rw2 F L D F Rw' F Uw' R2 Fw' Uw2",
+        "scrambleId": "891873",
+        "isExtra": 0,
+        "groupId": "C"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L2 B L2 B' D2 L2 R2 B L B' D' F2 R' B U' L2 F U2 L2 Fw2 Uw2 D2 U B D' L2 Fw2 Rw2 L2 F L2 D' Rw D2 Rw R' Fw' Uw R' F Rw2 Uw' B R",
+        "scrambleId": "891874",
+        "isExtra": 1,
+        "groupId": "C"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L U2 R B2 L' D2 F2 D2 B2 F2 R' B L' U R D L2 F' R2 D' L' Uw2 R' D' F2 Uw2 L' Fw2 U2 Rw2 U L Uw2 Fw' R2 B' R' U' F2 Uw' Rw2 Uw' Fw' F' L2",
+        "scrambleId": "891875",
+        "isExtra": 1,
+        "groupId": "C"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "F' U R' U R' U' F' U' B2 L' U2 F2 R2 U2 F2 R2 D2 F U2 F2 Fw2 U D2 Fw2 L Fw2 D' Rw2 U' Rw2 Fw2 R' Fw R2 Uw2 B2 L' Fw Rw Fw' Rw2 Uw2 D' B' L2",
+        "scrambleId": "891876",
+        "isExtra": 0,
+        "groupId": "D"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "D2 R' U' F2 D F' L' U' D2 L' R2 U2 D2 F' L2 F L2 B2 R2 Fw2 U2 L' D B2 U R Fw2 U Fw2 L D' Fw Uw2 D Fw' U2 L2 Fw2 Uw' B' Rw' R Uw2 B2",
+        "scrambleId": "891877",
+        "isExtra": 0,
+        "groupId": "D"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "F U2 L2 F2 B' U2 R2 F2 D2 U' R' F R' U2 L U2 B' D F B2 Rw2 U Fw2 D' F' Rw2 D' F' Rw2 U2 F2 D' Rw' R D2 Fw2 Rw' Fw' R Fw' Uw R' Fw2 R' Uw'",
+        "scrambleId": "891878",
+        "isExtra": 0,
+        "groupId": "D"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "D2 F2 D2 B R2 L2 F' B' R B2 R2 D2 R D' L B U' B' Uw2 Rw2 B2 R' F R2 F Rw2 F' Rw2 B' L' F' Uw Rw2 Uw R2 F2 Rw Fw' U' Fw' B2 F2 R2",
+        "scrambleId": "891879",
+        "isExtra": 0,
+        "groupId": "D"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "B U2 B' U2 L2 U2 B' R F U L F R2 F B L U2 L' Uw2 Rw2 U R Uw2 U' D' B2 R U' B2 R2 Fw Uw2 U F' D' R' Rw' Uw2 Rw' B' L' Fw",
+        "scrambleId": "891880",
+        "isExtra": 0,
+        "groupId": "D"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "F' U2 F' B2 R2 U2 F' L2 D2 L2 B L' U B U2 F' B2 L' U' B2 Rw2 Fw2 B U' Fw2 L2 U' L2 Fw2 L2 F' B' Rw' D' B U2 B U Uw' Fw D L Uw R' B",
+        "scrambleId": "891881",
+        "isExtra": 1,
+        "groupId": "D"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U F D2 L2 R' B' R' D2 F2 L' F' U' B2 D2 L2 F2 R2 B2 U2 Fw2 U' L2 Fw2 R2 L' Fw2 B2 L2 U F2 Uw2 Fw' R' D' Fw2 F2 U Uw Fw B L2 Uw F2 Rw",
+        "scrambleId": "891882",
+        "isExtra": 1,
+        "groupId": "D"
+      }
+    ],
+    "d": [
+      {
+        "scrambleNum": "1",
+        "scramble": "R2 F B2 L2 D2 B2 D2 B2 L' D2 R D2 B L R' U' F D F2 Rw2 U L B2 Uw2 Rw2 L F2 D' U2 Rw2 L2 D' Fw' Uw2 R' Fw2 F' U Rw Fw' Rw' R2 Uw B U'",
+        "scrambleId": "891785",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R2 U B2 D2 B2 L2 F2 D' B2 L U' F B' R' B2 D' R U2 B2 L' Uw2 B2 L' U2 R' U' Fw2 Uw2 Rw2 F2 Rw2 F' U2 D' Fw' D F' Rw2 Uw Fw' F U2 Fw' U",
+        "scrambleId": "891786",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B R B D L' B' R2 U L B2 L B' L2 F' U2 L2 F' U2 Rw2 B' Rw2 Fw2 R2 F' D2 L' F Rw2 Uw2 L' F' Uw Fw2 L Uw F Fw L2 Uw B Rw2 Uw B",
+        "scrambleId": "891787",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "U B2 D F2 U R2 U2 L2 U2 F' L' D' B' R2 B' L2 B2 R F Rw2 Uw2 D2 F U Rw2 F' D L2 U B Rw' U L2 B Rw' Uw B' Rw' F2 D' L Fw'",
+        "scrambleId": "891788",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "R' F' U B2 L F L U2 L U R2 B2 U2 F U2 F' U2 F' L2 Uw2 Fw2 B' R2 D' L2 B2 Uw2 Fw2 B F' L' D' Rw Uw2 B L D Fw' Uw' B Uw' R' Fw2 Rw2",
+        "scrambleId": "891789",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B2 D L2 B2 L2 U B2 D L2 B' U' F2 U2 F R D' L' F L2 D2 Rw2 Fw2 R2 Uw2 Fw2 F' Uw2 D' B2 D Fw2 D Rw B2 D2 Rw' Uw2 Fw F2 Uw' F' U2 Fw'",
+        "scrambleId": "891790",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B L2 B' U2 L2 D2 B D2 L U' F D' R' B U F' R2 F' D Uw2 Rw2 L Fw2 D2 B' Uw2 B U2 L F Uw2 F2 Uw' L B D' Fw2 Rw Uw U B' Rw' R Fw",
+        "scrambleId": "891791",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "F2 R' U B R D R' F2 D' B U2 B U2 L2 B L2 D2 R2 D2 B' Fw2 Rw2 R Fw2 F U2 L B' D2 F2 R2 F' Uw' R D' U2 Fw' D' Rw D2 L Uw' B2 U",
+        "scrambleId": "891792",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R2 B2 D' B2 D' R2 D F2 B2 L2 F L' U2 L D' B R2 B2 U2 Fw2 D R2 Fw2 R D F2 U' Fw2 D' U L2 Fw F' L D2 Fw2 F' D Uw' B Rw2 Fw Rw' Fw' L",
+        "scrambleId": "891793",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "D2 F2 L B2 L F2 R U2 F2 D U2 L2 R2 B2 D' B U2 R F' L' Fw2 D R U Rw2 Fw2 F2 L' F2 Uw2 B2 D2 B' Rw2 Fw Rw2 R2 D2 Fw Rw' Fw' L' D2 Fw L",
+        "scrambleId": "891794",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "R2 B2 L2 D' B2 U2 D2 B2 U2 L' B' R' B D' L' U R U' B U Fw2 D Rw2 F' Uw2 U' F2 D2 Fw2 Rw2 U2 Fw2 U' L' D2 Rw' D' F' D2 F2 Uw' Rw' D2 B' Uw Fw2",
+        "scrambleId": "891795",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "F R' D F L F2 L' U F' D2 L F2 R' U2 R B2 F2 U2 F2 U2 Fw2 D Fw2 Uw2 R2 L Fw2 F2 Rw2 R2 U' F2 B' L Fw' R B2 D2 Fw' Rw' U2 Rw Uw' D",
+        "scrambleId": "891796",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L U F U B R2 D B2 L' F' U' F2 D R2 D2 L2 F2 U2 B2 D' Fw2 U' Rw2 U Fw2 B' D' R2 Fw2 Rw2 B D F2 Rw D2 Rw B' U' Uw L Uw2 Fw' B' L2 D2",
+        "scrambleId": "891797",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L2 R' F2 D2 B2 R' B2 R' B2 F' D' R' U2 D2 B' U2 L F2 R2 Fw2 U' Rw2 U' B' U Rw2 U' L2 D F2 Uw2 Rw D L' B2 U Rw' R Uw' B' R2 Uw Fw'",
+        "scrambleId": "891798",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "F2 D2 R2 F' R2 F2 R2 L2 F' R' B2 R2 B L U L2 B2 D L D' Fw2 Rw2 D2 L' Uw2 B2 Uw2 F' Uw2 R F L' F2 Uw Rw2 D2 F' U Rw U' B Uw' R' L B2",
+        "scrambleId": "891799",
+        "isExtra": 0,
+        "groupId": "C"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R2 F2 R2 D2 B F U2 B' U2 L' U' L2 B D' B2 U' B' L B' Uw2 R2 L B' Rw2 B U2 F R2 Uw2 B L2 Uw R2 F2 D' L' Uw' Rw F Uw' Rw2 Uw' Rw Uw",
+        "scrambleId": "891800",
+        "isExtra": 0,
+        "groupId": "C"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L D2 F2 D2 R D2 L F2 D' U' L2 U B L D F' L2 U' R2 Uw2 F U' Fw2 Rw2 D2 L2 D' F' Rw2 Fw2 Rw' U F' R U' Rw2 L Uw' U' B2 Rw Uw D2 Fw'",
+        "scrambleId": "891801",
+        "isExtra": 0,
+        "groupId": "C"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L' B L' D2 L2 U' L R D B R B2 U2 B2 L U2 R' B2 D2 B2 Fw2 R Uw2 L2 U2 Fw2 D Rw2 U L F2 L2 U Fw Rw2 Fw' D' Fw' Uw' Fw D B F' Uw' U2",
+        "scrambleId": "891802",
+        "isExtra": 0,
+        "groupId": "C"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "F U2 B R2 B L2 F2 D2 F R2 D B D F2 R2 F2 R' F' U' F Rw2 F R' Uw2 Fw2 R Uw2 F U2 B' Uw2 R Uw R' U' B2 Uw Rw B' R' Uw' D Rw R",
+        "scrambleId": "891803",
+        "isExtra": 0,
+        "groupId": "C"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L U2 D2 F2 U2 L D2 R U2 L' D B2 L D' B L' B2 U R F' Rw2 U L2 Fw2 U2 Rw2 L' Fw2 L D' R' Fw R U2 Fw' F D' Rw Fw Uw' R2 U B Rw'",
+        "scrambleId": "891804",
+        "isExtra": 1,
+        "groupId": "C"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B D' R' L F L2 B' U R D F2 R2 L' B2 L' U2 L' B2 D2 U2 Fw2 Rw2 R Uw2 U2 F' Rw2 Uw2 F U2 L' F' D B' Uw R Fw2 R Fw' R D' Fw Uw L2",
+        "scrambleId": "891805",
+        "isExtra": 1,
+        "groupId": "C"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L2 U L2 D2 L2 B2 D2 U L2 U' F2 B' U B' R F' L D' U' F Uw2 Rw2 F2 L Uw2 R D2 B' R' U2 L2 B2 Uw B L2 Fw2 U' Rw' Uw' D2 Rw Uw Rw2",
+        "scrambleId": "891806",
+        "isExtra": 0,
+        "groupId": "D"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B D F2 R' B2 R' B' L U R2 B2 U2 D' R2 U' L2 R2 B2 D Uw2 R2 F Uw2 B' D2 L' Fw2 Uw2 Rw2 F L' Fw2 Uw' R2 B2 Uw' Fw Rw2 L' Uw2 U F2 D2",
+        "scrambleId": "891807",
+        "isExtra": 0,
+        "groupId": "D"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "F2 U2 R2 F' R2 B' R2 D2 R2 D2 F2 D' F' U R' D L B' R' F' B2 Fw2 D Fw2 B Rw2 B Uw2 L2 Uw2 B' D' L2 B2 Rw F R' U Fw' Rw' R2 Uw Rw2 D' B' D'",
+        "scrambleId": "891808",
+        "isExtra": 0,
+        "groupId": "D"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "D B' L U F' L' D' F' U R2 U' B F' D2 F' U2 L2 U2 B F Rw2 Fw2 B F' D' L2 B Rw2 F' U2 Rw' B R2 B Rw' D Uw Fw' F2 Rw2 Uw B2 L' R",
+        "scrambleId": "891809",
+        "isExtra": 0,
+        "groupId": "D"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L2 D2 R D2 B2 L' U2 R B D' B2 L' U R F2 U2 R' F2 R Rw2 B' L U2 Fw2 Uw2 B' R B' R' Uw2 Rw2 D B' Uw' B Uw F2 Fw' L' Uw Fw2 Rw2 D Fw",
+        "scrambleId": "891810",
+        "isExtra": 0,
+        "groupId": "D"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "D2 L2 R2 D B2 U' B2 L2 U F' L' F D2 B U' L' F' D2 B L2 Uw2 R Uw2 Rw2 D' L F2 D' R2 F2 D' R2 Fw U' L F' U2 B' Rw' Uw' R' Fw L2 U2",
+        "scrambleId": "891811",
+        "isExtra": 1,
+        "groupId": "D"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "F2 R L F2 B2 L' B2 R2 B2 D2 B U' D2 L' D' F U2 L2 U' B Fw2 Uw2 F' R D2 Rw2 F Rw2 F L R2 B' R' Uw' U' F' B U' R' Rw Fw2 Uw' Fw F Uw'",
+        "scrambleId": "891812",
+        "isExtra": 1,
+        "groupId": "D"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U2 R2 B2 D' U' B2 U F2 R' F2 U2 B' R U' L' R' D U' B2 Rw2 Fw2 R U Fw2 D2 R2 B2 Rw2 Uw2 D' F2 Fw R2 Fw' L F Rw' Fw' F' Uw' U' Fw2 D2 F'",
+        "scrambleId": "891813",
+        "isExtra": 0,
+        "groupId": "E"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "F2 R2 B' R F B U' B L D L2 R2 D2 L' F2 L' U2 B2 L2 B2 Uw2 Rw2 R Uw2 D2 F' L2 Uw2 R U2 Fw2 Uw2 B U' R2 Uw' B2 L Fw Uw B F Rw' Fw Rw2",
+        "scrambleId": "891814",
+        "isExtra": 0,
+        "groupId": "E"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L2 F2 L' U2 B2 U2 R' B2 D2 U' F D' L F' L2 F D' F2 U' Rw2 F Rw2 Uw2 U' B2 U2 B R2 B2 D' Rw2 D2 Rw' Uw2 R' B' L' Uw U2 Rw' Fw' Rw2 Uw U L2",
+        "scrambleId": "891815",
+        "isExtra": 0,
+        "groupId": "E"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "B2 U' R2 U' B2 R2 D2 B2 D F L2 D' U2 R' U' F' L2 D R F2 Rw2 Uw2 D Rw2 R2 Fw2 U' F' Rw2 U R2 D2 F2 Rw' D R' B' Rw2 Uw Fw2 L' F' B2 Uw Rw Uw",
+        "scrambleId": "891816",
+        "isExtra": 0,
+        "groupId": "E"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L' D' F' D F U' B' R U' B' R D2 R' U2 L F2 B2 U2 B2 L Rw2 Fw2 B' R2 Uw2 B L2 D' F2 Rw2 U' F Rw Fw2 D2 F B Fw' Rw2 R' Uw' Rw Uw Fw L2",
+        "scrambleId": "891817",
+        "isExtra": 0,
+        "groupId": "E"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U2 B2 D2 F2 R D2 L' R' D2 F2 R U R2 B U R U B' D2 F Fw2 Rw2 F Uw2 L' F' U2 Rw2 Fw2 Uw2 R U2 L2 Uw' B' Rw2 D' Rw2 D2 U Rw' Uw2 Fw' U2 Rw D",
+        "scrambleId": "891818",
+        "isExtra": 1,
+        "groupId": "E"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R2 U' L2 U' L2 D2 R2 D R2 L' U' B' L' U D2 F' R2 D' B' U2 Rw2 D' Rw2 R2 Uw2 F' U D' Rw2 F' D' Rw F2 B2 Rw U Rw' U2 F' Uw Rw F' B2 L2",
+        "scrambleId": "891819",
+        "isExtra": 1,
+        "groupId": "E"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B' F' L2 B R2 B L2 D2 B' D L U L' B2 L' F R' B F2 L' Rw2 D' Fw2 F Uw2 U Rw2 F' U2 R2 B Rw F B Rw' F U' R' Uw Rw2 Uw' R2 B' Rw",
+        "scrambleId": "891820",
+        "isExtra": 0,
+        "groupId": "F"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "F2 U' B2 D' R2 U L2 F2 D F2 U R F D' L' U B U2 L R' Rw2 F2 U Fw2 B' Uw2 D' B2 D U' F U2 Rw' R' B2 U2 R Fw' D Rw B R Uw2 Rw L2",
+        "scrambleId": "891821",
+        "isExtra": 0,
+        "groupId": "F"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L2 R2 B' U2 D2 F' D L' D R' U2 R2 U' R' B2 F' D2 Fw2 Rw2 D' B' U' D' Fw2 Uw2 D' F2 B' Uw2 Rw' Uw2 F R2 U Uw Rw' F2 Uw L U2 R F",
+        "scrambleId": "891822",
+        "isExtra": 0,
+        "groupId": "F"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "D2 F2 L2 R U2 L2 R' B2 R' B2 U' R2 D2 R D R2 F L U B Fw2 D F2 L2 Uw2 B' Rw2 F2 D F2 U' Fw2 L' B Rw' R D Uw' Rw' D' F2 Rw U F R'",
+        "scrambleId": "891823",
+        "isExtra": 0,
+        "groupId": "F"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "R2 F2 L U2 L' B2 U2 F2 B2 D R' F' R2 D' L U B' L' U F Fw2 R' U2 D Rw2 U' B2 U' L' Fw2 F2 R' Uw2 Fw U R U' R Fw' Uw R2 Uw2 Fw Rw' D2 Rw",
+        "scrambleId": "891824",
+        "isExtra": 0,
+        "groupId": "F"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "F' D2 B U2 B D2 F' R2 B' F' R' U2 D' L' U2 F' U2 D' F' L2 Rw2 B' Uw2 Fw2 D2 B D' B' Rw2 F L F U' Rw R F' Uw' R Uw' Fw' B2 Rw' Fw2 D'",
+        "scrambleId": "891825",
+        "isExtra": 1,
+        "groupId": "F"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "D' L2 D L2 B2 U L2 B2 U' B2 U' L D2 U L' R' F' L' D' L2 Rw2 Fw2 L' F' R2 Uw2 B R Uw2 Fw2 F L' Uw B' F L' B Rw2 Fw Rw Uw' R D' Rw' R2",
+        "scrambleId": "891826",
+        "isExtra": 1,
+        "groupId": "F"
+      }
+    ],
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "R2 F2 R2 D2 F2 U2 L U2 L' U L R' B' D2 R' D F U L Uw2 F2 R' D Rw2 R' Uw2 U' R' D2 L' U' Fw' B' R2 L' D2 B' D' Rw' D' Fw B2 Rw Fw",
+        "scrambleId": "891883",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "D2 R2 B2 L2 D2 R2 D' F2 R F' U' F B U' D L D2 F2 D Rw2 D2 Rw2 F' D L2 B2 Rw2 Uw2 U' L2 F U2 Rw B' R Fw2 L2 Uw' Rw' F Uw Rw L' Uw2 B'",
+        "scrambleId": "891884",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "U2 L2 U2 B2 D2 F2 B' R2 F' L2 U F D' F' R2 D' B2 L R B' Rw2 F' U Fw2 R2 L2 Uw2 D2 U2 L2 D Fw2 B' Rw D2 L' R' B' Uw' Fw B' Rw' Fw' Uw' U' Rw2",
+        "scrambleId": "891885",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "D2 R' F2 R2 L2 F2 L D2 L' U B2 L2 F2 U2 F U' B D2 R' U2 Rw2 Uw2 L U2 F' Rw2 Fw2 B' F2 R' B' Uw2 Fw2 Uw' R2 B' L2 D' Rw' Uw' B L Fw L2 F'",
+        "scrambleId": "891886",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "U' B2 R2 U' L2 U2 B2 D' R2 F2 L' B R D L F' L' U2 F' Uw2 R' Fw2 L2 D2 B2 Rw2 F' Uw2 F D2 L Uw B2 U' F2 L' D Rw D Rw2 Fw' L D2 Rw'",
+        "scrambleId": "891887",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L2 B2 D2 F2 R' D2 R' B2 R B R2 D2 L U L2 D R D2 F U Uw2 Fw2 F' D2 R Uw2 B L2 F U2 Fw2 L Uw Rw2 Uw2 U' F B U' Fw Rw L2 Fw2 Rw' D",
+        "scrambleId": "891888",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U2 B2 R' L2 D2 R2 L2 B2 D' B2 L' U2 B U L2 F R' D2 R Uw2 R' B' L' R' B2 Uw2 Fw2 B Uw2 R B' Uw' F' B' Uw' R Rw Fw' Rw2 U' B2 L' F'",
+        "scrambleId": "891889",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

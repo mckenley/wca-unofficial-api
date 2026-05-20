@@ -1,0 +1,80 @@
+{
+  "eventId": "333bf",
+  "competitionId": "FujianChampionship2018",
+  "rounds": {
+    "1": [
+      {
+        "scrambleNum": "1",
+        "scramble": "B2 U2 F D2 R2 U2 B' L2 D2 B L2 R B D2 B U' L R' U' B' U Fw'",
+        "scrambleId": "777013",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "F L2 D2 R2 B' R2 B' D2 R2 U2 R' U' R B2 D U2 F U R' B' Uw",
+        "scrambleId": "777014",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L2 F2 R2 D' R2 D2 F2 U B' R' B F D2 B2 U F2 R' B' U R2 Fw' Uw'",
+        "scrambleId": "777015",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U2 B2 L U2 L R' U2 L2 F R D' F' L2 D2 L2 B' L' B' D' Rw2 Uw2",
+        "scrambleId": "777016",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "D' F2 L2 U' R2 U' L2 U F' U2 L' F R2 D2 L F2 L2 D L2 U2 Rw'",
+        "scrambleId": "777017",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ],
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "B2 D2 F2 D L2 D2 F2 U B' D' U' F L' D' R2 B' D L' D Fw'",
+        "scrambleId": "777018",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B2 L2 D2 U L2 U2 R2 F U2 F' R2 D L' D B' F R2 D R2 Uw",
+        "scrambleId": "777019",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "D B2 D' R2 F2 D R2 U L2 B' L B2 R U2 B2 D B2 F2 R2 Fw Uw2",
+        "scrambleId": "777020",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "F2 L2 R2 F2 U F2 D2 B R2 D' L2 F' R' F2 U' F' L B D' Rw' Uw2",
+        "scrambleId": "777021",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "F2 R2 B2 F2 D U2 L2 D' R2 F2 U' L D2 R' B R' F U L R2 D' Rw' Uw'",
+        "scrambleId": "777022",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

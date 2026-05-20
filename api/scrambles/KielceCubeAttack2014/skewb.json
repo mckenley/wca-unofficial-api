@@ -1,0 +1,108 @@
+{
+  "eventId": "skewb",
+  "competitionId": "KielceCubeAttack2014",
+  "rounds": {
+    "1": [
+      {
+        "scrambleNum": "1",
+        "scramble": "L R B' U' R L B' U B' L' U",
+        "scrambleId": "41324",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R L R L B U' L' B' U' L",
+        "scrambleId": "41325",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L R B U R B R' U R' B L",
+        "scrambleId": "41326",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L R' U' L B L B' L B' L' R",
+        "scrambleId": "41327",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L R B' L R' U' R B' U L' U'",
+        "scrambleId": "41328",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L R L R U' B R' U L' U' R'",
+        "scrambleId": "41329",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R L R' B' L B' U' L R L'",
+        "scrambleId": "41330",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ],
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "L R B L' R B' L R U' R' U",
+        "scrambleId": "41331",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R' L' U R' B U B L B L'",
+        "scrambleId": "41332",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L R L R' B' R' L R' L' B' R'",
+        "scrambleId": "41333",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L R L' R B L' R L U R' B",
+        "scrambleId": "41334",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L R L U' L U' B' R L' R' U",
+        "scrambleId": "41335",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L R B U' R' L R U' L U' B'",
+        "scrambleId": "41336",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R L' B U B R' L B' U R'",
+        "scrambleId": "41337",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "eventId": "skewb",
+  "competitionId": "DumagueteCubeRendezvous2023",
+  "rounds": {
+    "c": [
+      {
+        "scrambleNum": "1",
+        "scramble": "R B R' U B U' R B U' L U",
+        "scrambleId": "3305417",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R L B R L' B' L B U' L B",
+        "scrambleId": "3305418",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "R L U L' R' L' R' B R' L' U'",
+        "scrambleId": "3305419",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "U B L' B' R B' L' B' R U R",
+        "scrambleId": "3305420",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L U R L B R U' L' B U L'",
+        "scrambleId": "3305421",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R U B' L R' L' U' L' R' L R",
+        "scrambleId": "3305422",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U L B' R B' L B R' U' R' L'",
+        "scrambleId": "3305423",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B L R B R B' R L' B' L U'",
+        "scrambleId": "3305424",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L U B R' B' R U L' R B' U'",
+        "scrambleId": "3305425",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L B L B U B' R U' B' R B",
+        "scrambleId": "3305426",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "B L B L U' R' B U' R' L' U",
+        "scrambleId": "3305427",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L R L B' U L U' B' U L' U",
+        "scrambleId": "3305428",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U L R' L B' U R L' B' L' U",
+        "scrambleId": "3305429",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B L U R' B U B U' B' L R'",
+        "scrambleId": "3305430",
+        "isExtra": 1,
+        "groupId": "B"
+      }
+    ]
+  }
+}

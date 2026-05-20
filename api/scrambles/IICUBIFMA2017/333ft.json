@@ -1,0 +1,43 @@
+{
+  "eventId": "333ft",
+  "competitionId": "IICUBIFMA2017",
+  "rounds": {
+    "c": [
+      {
+        "scrambleNum": "1",
+        "scramble": "R' B R2 D F L' D2 F2 L' D R2 D' R2 L2 B2 R2 D R2 U'",
+        "scrambleId": "633012",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "D2 R2 D2 F U2 F' L2 R2 F' R2 F' D R' B' L B' D F2 L' F' U'",
+        "scrambleId": "633013",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B' U2 D2 R F2 R2 U D R' L2 D' L2 U2 F' U2 L2",
+        "scrambleId": "633014",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "D R2 B2 D' U F2 D2 U F U F' L' D' U' L R' U B' L2",
+        "scrambleId": "633015",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B2 U2 L2 U2 L' D2 B2 L U F' R2 B' D' B' U2 R' U' L2 R2",
+        "scrambleId": "633016",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

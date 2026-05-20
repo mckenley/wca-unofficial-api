@@ -1,0 +1,57 @@
+{
+  "eventId": "pyram",
+  "competitionId": "IdealeNabeulOpen2018",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "L B' L U R B L' B R' U' L' u' b'",
+        "scrambleId": "931931",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B R B U' R' B R L B U' B' l' r b'",
+        "scrambleId": "931932",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "R U' B' U L' B' R B U' R L u' l b'",
+        "scrambleId": "931933",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "U' R' U R B' L R' B U' B' R' l' r'",
+        "scrambleId": "931934",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "U' B R B L U R' U' L B U l b'",
+        "scrambleId": "931935",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L B' U B' L' R' B R' U' B R' l' b",
+        "scrambleId": "931936",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L' B U B' R U' L' R' U' L' U' l' r b",
+        "scrambleId": "931937",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

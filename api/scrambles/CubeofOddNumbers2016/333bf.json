@@ -1,0 +1,80 @@
+{
+  "eventId": "333bf",
+  "competitionId": "CubeofOddNumbers2016",
+  "rounds": {
+    "1": [
+      {
+        "scrambleNum": "1",
+        "scramble": "B2 D L2 R2 U' F2 D2 F2 R B2 D2 B U L B' L2 U' F Rw2",
+        "scrambleId": "313022",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U2 R2 B2 U' B2 L2 U B' U' L U' B' L B2 R' B2 D' Fw Uw2",
+        "scrambleId": "313023",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B L2 D2 R2 U2 B R2 D2 B D2 B2 R' B2 L' F U' R2 D R2 B' F' Uw2",
+        "scrambleId": "313024",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L2 U B2 U' R2 D2 F2 U2 F2 R' F' L' D' F D L' U' L' D' R2 Fw Uw2",
+        "scrambleId": "313025",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U2 R2 D' B2 D' L2 D L2 F2 U' R2 B U2 F2 D' F' L' D' L' D R' Uw2",
+        "scrambleId": "313026",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ],
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "U' F2 D F2 R2 D L2 D' U2 F U' F' U L D2 F' D R2 D Rw2 Uw2",
+        "scrambleId": "313027",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "D2 R D2 L2 B2 R' B2 D2 R2 F D2 B L' R' F' D' B L' U' F Rw",
+        "scrambleId": "313028",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "U2 B2 L' R2 F2 U2 L D2 U2 F U2 L2 D' L' U' R U' B F' U Rw' Uw'",
+        "scrambleId": "313029",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "F R2 F2 R2 D2 U2 F' U2 F U2 L B R2 B2 D L2 R' D U' F2 Rw' Uw'",
+        "scrambleId": "313030",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "F2 U B2 D L2 F2 R2 F2 D' U2 L' B2 R' B L2 B D L2 D2 R2 F Rw Uw'",
+        "scrambleId": "313031",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

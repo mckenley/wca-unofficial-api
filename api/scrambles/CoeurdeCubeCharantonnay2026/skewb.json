@@ -1,0 +1,106 @@
+{
+  "eventId": "skewb",
+  "competitionId": "CoeurdeCubeCharantonnay2026",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "U R U' L' R' L' R U R U' R'",
+        "scrambleId": "5384446",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R U L' R U' B' U R B R' U'",
+        "scrambleId": "5384447",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B L B R L U B R B' U' R",
+        "scrambleId": "5384448",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "U B L B' U' B U' L' U' B' L",
+        "scrambleId": "5384449",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L U R' B L B' L' U' L U R'",
+        "scrambleId": "5384450",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R L U L B U L' R U B U'",
+        "scrambleId": "5384451",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R B L B U L U R' L U B",
+        "scrambleId": "5384452",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L B L' U L' U R' B' R B' L'",
+        "scrambleId": "5384453",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B L U B L U L' B' L B' L'",
+        "scrambleId": "5384454",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B L R' B L U B U' B R' B'",
+        "scrambleId": "5384455",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "U R B' R' B' L U L' B U R'",
+        "scrambleId": "5384456",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "B L R B' U B U' R' L U' R",
+        "scrambleId": "5384457",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U R U R L' R U' L' R' L B'",
+        "scrambleId": "5384458",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B L U B' U L R U L' R' U'",
+        "scrambleId": "5384459",
+        "isExtra": 1,
+        "groupId": "B"
+      }
+    ]
+  }
+}

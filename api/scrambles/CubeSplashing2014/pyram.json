@@ -1,0 +1,57 @@
+{
+  "eventId": "pyram",
+  "competitionId": "CubeSplashing2014",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "R' L' U' R L U L' R L U R' u' r'",
+        "scrambleId": "13281",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R' U' L B' U R L' B' L' U' R u' l r'",
+        "scrambleId": "13282",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L' B U' L U' L' U' L' B' R B l' r b",
+        "scrambleId": "13283",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "U L' R' U' B' L' R B' L' U' R' u'",
+        "scrambleId": "13284",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L' B L R U' L R' U R' B U' u b'",
+        "scrambleId": "13285",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U' L U' B L' R L B U' R L l r",
+        "scrambleId": "13286",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L U' R' L' R' L U B' U' L B u l' b'",
+        "scrambleId": "13287",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}
