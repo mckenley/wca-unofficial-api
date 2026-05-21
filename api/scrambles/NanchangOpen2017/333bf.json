@@ -1,0 +1,80 @@
+{
+  "eventId": "333bf",
+  "competitionId": "NanchangOpen2017",
+  "rounds": {
+    "1": [
+      {
+        "scrambleNum": "1",
+        "scramble": "D L B R U D R' F' L B2 R2 F U2 F2 D2 R2 U2 R2 F R2",
+        "scrambleId": "640019",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "D2 R F2 L D2 R' D2 L2 U2 R2 B' D F2 R' B2 R2 B2 U' L U2 Fw",
+        "scrambleId": "640020",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "U2 F2 U2 L R2 F2 U2 R2 B' R' D' R' U2 L2 F2 R' B2 D U' Rw'",
+        "scrambleId": "640021",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "F2 U2 B F L2 U2 R2 D2 B L' B2 U B' F' R' D2 B D' U' B2 Rw",
+        "scrambleId": "640022",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U L2 U B2 D2 B2 U R2 B R' U L B' L B2 U F' U' L2 D' Fw' Uw",
+        "scrambleId": "640023",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ],
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "U2 B U2 B' D2 B2 D2 F' L2 U R B R2 U2 B2 D2 U R' F U' Rw Uw",
+        "scrambleId": "640024",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L2 F R2 F' U2 F D2 B U2 R2 D U' R B' L F2 U' B' F2 L' D' Fw' Uw",
+        "scrambleId": "640025",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L2 B2 R' B2 R2 U2 R' D2 L U2 F' D L2 B R' B' L' F' D2 L2 D2 Rw Uw",
+        "scrambleId": "640026",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U2 L' D2 L D2 U2 B2 R' B2 L' F' U2 L' R U' R B L' U F' Rw' Uw",
+        "scrambleId": "640027",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "F2 D B2 D' F2 D R2 D' L' U2 L2 B U' L' B F D' R F' Rw2 Uw'",
+        "scrambleId": "640028",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

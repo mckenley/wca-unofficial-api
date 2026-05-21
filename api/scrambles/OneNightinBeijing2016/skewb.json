@@ -1,0 +1,108 @@
+{
+  "eventId": "skewb",
+  "competitionId": "OneNightinBeijing2016",
+  "rounds": {
+    "d": [
+      {
+        "scrambleNum": "1",
+        "scramble": "L B L' B' U L U' R' U' L' R'",
+        "scrambleId": "307421",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R B U' R L' U' R U' R B R'",
+        "scrambleId": "307422",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L R U L R L' B L B' R B",
+        "scrambleId": "307423",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L B L R L R' B U L R L'",
+        "scrambleId": "307424",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "R U L B L' B U R' L' U R",
+        "scrambleId": "307425",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U L R' L' B L' U R B L R",
+        "scrambleId": "307426",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U L' B L' R' B L' U L R U",
+        "scrambleId": "307427",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ],
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "U L' R U' B' R' B L B' R U",
+        "scrambleId": "307428",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U R U' R' L U' R L' R B' U'",
+        "scrambleId": "307429",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L R L U' B L' R' U L U' L",
+        "scrambleId": "307430",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "R B L B' U' B U R L R' U",
+        "scrambleId": "307431",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "R L R L' U' B' L U' L' R B'",
+        "scrambleId": "307432",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L R B' L R' B R U' R' B L",
+        "scrambleId": "307433",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U B R U' B' R' B' R' L' R' L'",
+        "scrambleId": "307434",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

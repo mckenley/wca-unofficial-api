@@ -1,0 +1,57 @@
+{
+  "eventId": "pyram",
+  "competitionId": "ShakerHeights2016",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "L R B R L B' L U' B' L' U l r b'",
+        "scrambleId": "255556",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L' R U B L B R' L U R' L u' l' r' b",
+        "scrambleId": "255557",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L' B' R' L R' U' L B R U' R l' r b'",
+        "scrambleId": "255558",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "U B R U B U' R B' R' L' U' u' l' b'",
+        "scrambleId": "255559",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "R' B U' L R U' B U B' R' L u' l' b",
+        "scrambleId": "255560",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B' L U' B L U' B U' L U' R u' l' r'",
+        "scrambleId": "255561",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L B R' B U' B' R' L' B' R L r' b",
+        "scrambleId": "255562",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

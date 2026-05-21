@@ -1,0 +1,57 @@
+{
+  "eventId": "pyram",
+  "competitionId": "MontrealOpen2014",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "L R L' R U' R' B' R' B' R' U u r b'",
+        "scrambleId": "287",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R U' L' U' R' B' R U B' R' U l'",
+        "scrambleId": "288",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "R L' U' B' L' B' L' R' L U' B' u' b'",
+        "scrambleId": "289",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "B L' B U R L' R B' R L' U' u' l b'",
+        "scrambleId": "290",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "R L' R B' U B L' R L' U B' u b'",
+        "scrambleId": "291",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B U L U' B' L U' B' U B R u' l' r' b",
+        "scrambleId": "292",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U' R' U B U R' L' U' R B L l b'",
+        "scrambleId": "293",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

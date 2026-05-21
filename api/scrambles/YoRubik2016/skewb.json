@@ -1,0 +1,57 @@
+{
+  "eventId": "skewb",
+  "competitionId": "YoRubik2016",
+  "rounds": {
+    "c": [
+      {
+        "scrambleNum": "1",
+        "scramble": "L R B R' L R' L R B L R",
+        "scrambleId": "360494",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L B L B' R' B' R B' L' R U",
+        "scrambleId": "360495",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B L U' B R B' U' B' U R B'",
+        "scrambleId": "360496",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "U L R' L U' R B' U' B U R'",
+        "scrambleId": "360497",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "B R B R' U' R L R L' U' R",
+        "scrambleId": "360498",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B L R' U' R B R' B' L B L'",
+        "scrambleId": "360499",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R B L U R L' U L' R' B U",
+        "scrambleId": "360500",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

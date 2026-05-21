@@ -1,0 +1,108 @@
+{
+  "eventId": "skewb",
+  "competitionId": "LexingtonSpring2015",
+  "rounds": {
+    "d": [
+      {
+        "scrambleNum": "1",
+        "scramble": "L R B L R' L' U' L U' R' L'",
+        "scrambleId": "125273",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R U R' U' R U B L' B U",
+        "scrambleId": "125274",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L R L B' R' B U B U B' L'",
+        "scrambleId": "125275",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L R L R' U' B' U' B U' R B",
+        "scrambleId": "125276",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L R' L U' B R L U' L' B' R",
+        "scrambleId": "125277",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L R L B' R U' B L' R B R",
+        "scrambleId": "125278",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R B L' R L' U B' R U B'",
+        "scrambleId": "125279",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ],
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "L R L U' R L R' B' R' B' L",
+        "scrambleId": "125280",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R' B R U B' U' B R' L' U",
+        "scrambleId": "125281",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L R B L' B L U B U R' U",
+        "scrambleId": "125282",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L R L B' L' U B' R' L B L'",
+        "scrambleId": "125283",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L R L U R L' R B U L' R'",
+        "scrambleId": "125284",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L R L U L' U' L' R' U R' L'",
+        "scrambleId": "125285",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R L B U B R' L R' U B",
+        "scrambleId": "125286",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

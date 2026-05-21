@@ -1,0 +1,57 @@
+{
+  "eventId": "skewb",
+  "competitionId": "LexingtonFall2014",
+  "rounds": {
+    "c": [
+      {
+        "scrambleNum": "1",
+        "scramble": "L R L U' L' B L' U' L R' U'",
+        "scrambleId": "74225",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R L U' L B U' L' U L U'",
+        "scrambleId": "74226",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L R L U L B U R L B R'",
+        "scrambleId": "74227",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L R L B' R L' U L' B U' B",
+        "scrambleId": "74228",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L R B R B' L U' L' R' L B",
+        "scrambleId": "74229",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L R L' B' U L' U' B U L B",
+        "scrambleId": "74230",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R L' U' L' B L' R' U L' B",
+        "scrambleId": "74231",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

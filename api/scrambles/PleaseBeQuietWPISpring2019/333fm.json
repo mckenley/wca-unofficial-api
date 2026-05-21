@@ -1,0 +1,75 @@
+{
+  "eventId": "333fm",
+  "competitionId": "PleaseBeQuietWPISpring2019",
+  "rounds": {
+    "1": [
+      {
+        "scrambleNum": "1",
+        "scramble": "R' U' F D2 F U2 L2 F U2 L2 R2 B F' D' L2 R' D2 B F' L D' L D2 U2 R' U' F",
+        "scrambleId": "1132821",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R' U' F L2 U' L2 B2 D' U' L2 D B2 F2 U2 R' F' D F2 U L2 F2 R F2 U R' U' F",
+        "scrambleId": "1132822",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "R' U' F R2 U2 L2 B L2 F R2 B2 F' D2 R' B2 U' F D' F R D' B F R' U' F",
+        "scrambleId": "1132823",
+        "isExtra": 0,
+        "groupId": "A"
+      }
+    ],
+    "2": [
+      {
+        "scrambleNum": "1",
+        "scramble": "R' U' F D2 R2 B U2 L2 D2 U2 F' L2 D F2 L' U B2 U R F' L2 D' B2 R' U' F",
+        "scrambleId": "1132824",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R' U' F D' F2 U2 B2 D2 R2 D U2 L' U2 L' U2 L2 U2 F L' U2 R' F2 U R' U' F",
+        "scrambleId": "1132825",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "R' U' F U' B2 U R2 B2 L2 D2 B2 R2 U2 F' U' R U2 L2 D2 L2 D F' R U R' U' F",
+        "scrambleId": "1132826",
+        "isExtra": 0,
+        "groupId": "A"
+      }
+    ],
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "R' U' F L D2 R' F2 U2 R F2 L' D2 L2 B' F2 U L' B' R2 D R2 B' R' U' F",
+        "scrambleId": "1132827",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R' U' F D2 U2 R D2 U2 L' F2 D2 R D' B' R2 D' L' R2 D R' F2 L2 B' R' U' F",
+        "scrambleId": "1132828",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "R' U' F U2 L2 F2 R' D2 R' F2 D2 L2 D' L U F2 U B' L U' L F D2 R' U' F",
+        "scrambleId": "1132829",
+        "isExtra": 0,
+        "groupId": "A"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "eventId": "333bf",
+  "competitionId": "NancyOpen2015",
+  "rounds": {
+    "c": [
+      {
+        "scrambleNum": "1",
+        "scramble": "F2 R2 B2 R2 D2 U B2 L2 U B U' R' F R D2 R D L' R D2 Fw Uw'",
+        "scrambleId": "206251",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L2 D2 R2 D2 B2 F' R2 F2 R' D F' D2 R' B' L' R U' B R2 B' Rw'",
+        "scrambleId": "206252",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "D U2 R2 F2 D B2 L2 F U' B2 L U2 F L F' R2 F' Uw",
+        "scrambleId": "206253",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L' U2 F2 U2 R' F2 R2 F' U L' D' B R D' U2 L' D2 L2 Uw'",
+        "scrambleId": "206254",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L2 F L2 D2 L2 B F' R2 U F' R U L R B' R2 U' F2 D' Rw2 Uw'",
+        "scrambleId": "206255",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "F2 D2 U2 L2 F' R2 U2 F L F' R F' D' F L2 D2 L2 D2 F Rw' Uw",
+        "scrambleId": "206256",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L2 D' B2 U' R2 U' R2 D2 U' L D2 L B2 L' F D U' B' U Rw' Uw2",
+        "scrambleId": "206257",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "D F2 D2 U2 R2 D2 U B2 R F' L' B' D' R B2 D' F' D2 B2 U2 Rw2",
+        "scrambleId": "206258",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L2 F2 U2 R2 D B2 U2 B2 R' D' B D2 L' F2 R2 B' U' R' F' D' Fw' Uw",
+        "scrambleId": "206259",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R2 U2 R2 B U2 B F' D' L2 B' R U' L2 U' B' F2 R U F2 Rw' Uw'",
+        "scrambleId": "206260",
+        "isExtra": 1,
+        "groupId": "B"
+      }
+    ]
+  }
+}

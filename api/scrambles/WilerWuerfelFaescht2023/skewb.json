@@ -1,0 +1,106 @@
+{
+  "eventId": "skewb",
+  "competitionId": "WilerWuerfelFaescht2023",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "U B R L U' L R B U B' U'",
+        "scrambleId": "2611602",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L U L B' L U' B' R U' B R",
+        "scrambleId": "2611603",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B R B U' L' U R B U' R' U'",
+        "scrambleId": "2611604",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "U B U B' U R' B' U' L B L'",
+        "scrambleId": "2611605",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "B L U' B' U L' U' B L R U",
+        "scrambleId": "2611606",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R B R L' B' U B' U' B R' L",
+        "scrambleId": "2611607",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U B U L R' L' R L' R' L' U'",
+        "scrambleId": "2611608",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R B R' B' R B U L' U' R U'",
+        "scrambleId": "2611609",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B L B' U B' R L' B' L' R B",
+        "scrambleId": "2611610",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "R L U' R U' L' B R' L' R' L",
+        "scrambleId": "2611611",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L B R L' B' U' R B' R L B'",
+        "scrambleId": "2611612",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L R L' U B' R L' U' R' U R",
+        "scrambleId": "2611613",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U L R' B U L' R L' U' L B",
+        "scrambleId": "2611614",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U B L' U B L' B U R B R'",
+        "scrambleId": "2611615",
+        "isExtra": 1,
+        "groupId": "B"
+      }
+    ]
+  }
+}

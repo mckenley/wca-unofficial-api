@@ -1,0 +1,106 @@
+{
+  "eventId": "skewb",
+  "competitionId": "MontevideoalCubo2023",
+  "rounds": {
+    "c": [
+      {
+        "scrambleNum": "1",
+        "scramble": "L B R B L' B U R' U' L' U'",
+        "scrambleId": "2456282",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R U R L' R U R U R' U",
+        "scrambleId": "2456283",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "R U R U' L U' B R' L' R B'",
+        "scrambleId": "2456284",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L B L U' B' L' U R U' R' U",
+        "scrambleId": "2456285",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "U B L' U L' U' R' B L' B' U'",
+        "scrambleId": "2456286",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B L R U L' R B R' U R' U'",
+        "scrambleId": "2456287",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R B R L B R' U' L R L' U",
+        "scrambleId": "2456288",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U L R L U' B L' R B' R U",
+        "scrambleId": "2456289",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U B U B' R B' R U L R' L",
+        "scrambleId": "2456290",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "U B L B' U' R B' R L' U R",
+        "scrambleId": "2456291",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L R L B R U R' U' B R' L'",
+        "scrambleId": "2456292",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L R U' B L' U' L' R U L' R'",
+        "scrambleId": "2456293",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L R B U B L' U' B' R L R",
+        "scrambleId": "2456294",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B L' U R L R' L R' U' R' U",
+        "scrambleId": "2456295",
+        "isExtra": 1,
+        "groupId": "B"
+      }
+    ]
+  }
+}

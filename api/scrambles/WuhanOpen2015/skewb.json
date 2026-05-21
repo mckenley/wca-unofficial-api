@@ -1,0 +1,108 @@
+{
+  "eventId": "skewb",
+  "competitionId": "WuhanOpen2015",
+  "rounds": {
+    "1": [
+      {
+        "scrambleNum": "1",
+        "scramble": "L R L' B' L B' U' L' U' R B'",
+        "scrambleId": "138646",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R' L U' B' L' U R' B' U' B",
+        "scrambleId": "138647",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L R L B R' B L' B' U' R B",
+        "scrambleId": "138648",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L R B' R' L' R L B U' L' B",
+        "scrambleId": "138649",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L R L U' R B' U L R' B' R",
+        "scrambleId": "138650",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L R L' B R' U' B' U' B' L' B",
+        "scrambleId": "138651",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R L R U' L' B' U B L B'",
+        "scrambleId": "138652",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ],
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "L R B U' R U B' R' B R U",
+        "scrambleId": "138653",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R L' R U R U L' U' L B'",
+        "scrambleId": "138654",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L R B' U B R' L B R B U",
+        "scrambleId": "138655",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L R B' R B R U L B R' B",
+        "scrambleId": "138656",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L R B L R' L' B L' R U R'",
+        "scrambleId": "138657",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L R U' L B' R' B U' R' U L'",
+        "scrambleId": "138658",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R' B L' R L' R' B' U' R' U",
+        "scrambleId": "138659",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

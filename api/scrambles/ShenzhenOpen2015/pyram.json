@@ -1,0 +1,57 @@
+{
+  "eventId": "pyram",
+  "competitionId": "ShenzhenOpen2015",
+  "rounds": {
+    "c": [
+      {
+        "scrambleNum": "1",
+        "scramble": "U' B U L B' L U L' B R B' u' l r b'",
+        "scrambleId": "161699",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B L' U L B' R' U B R' U L' l r'",
+        "scrambleId": "161700",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L' B U L U' B U' R L R U u' l r b'",
+        "scrambleId": "161701",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "R' B L' R B' U B' R B' L' U' u l'",
+        "scrambleId": "161702",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "U' R U' B' L' B U L U' B L' u l' r b",
+        "scrambleId": "161703",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U L B U B' L' U' L B' R U u b",
+        "scrambleId": "161704",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U' L' R B U R' B' U' L U L' u' l' b",
+        "scrambleId": "161705",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

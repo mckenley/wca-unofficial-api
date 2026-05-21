@@ -1,0 +1,57 @@
+{
+  "eventId": "pyram",
+  "competitionId": "SucreOpen2019",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "R U R B L B' L R' B R' L' b",
+        "scrambleId": "1437172",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U' L B' L' R' L' B' R B R' U' u' l' b",
+        "scrambleId": "1437173",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B' L R' B' L' B' U L' U' R U' u l r",
+        "scrambleId": "1437174",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "B' U L B' L' R U' L' R B' R u r b'",
+        "scrambleId": "1437175",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "U' R' B L' U' L' B' L B' R U u",
+        "scrambleId": "1437176",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B' L U R L' U L' B R' L B u l r' b",
+        "scrambleId": "1437177",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U' B R B L R' B U' R' B' L' u",
+        "scrambleId": "1437178",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

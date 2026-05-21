@@ -1,0 +1,57 @@
+{
+  "eventId": "pyram",
+  "competitionId": "SangrahCubeOpen2018",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "R L B L R U' B R' U L B",
+        "scrambleId": "707378",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B' U' B U' L' B' R U' L B' U u' l' b'",
+        "scrambleId": "707379",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B' L U R' L B' U L' B' R' L r' b'",
+        "scrambleId": "707380",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "U B U R' L U' B' U' B' R L' u l r' b",
+        "scrambleId": "707381",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L' R' L' B U' L' B L U R B' l'",
+        "scrambleId": "707382",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L' U L' U B U' B R L' U' B' u' l r b'",
+        "scrambleId": "707383",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R U' R' B' L' U' L' U' R L' U u l b'",
+        "scrambleId": "707384",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

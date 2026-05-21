@@ -1,0 +1,106 @@
+{
+  "eventId": "skewb",
+  "competitionId": "SabahCubeOpen2019",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "U L R B R' U' B R B L' R'",
+        "scrambleId": "1271688",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U L R' B R' U L R' L' U' L'",
+        "scrambleId": "1271689",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "U R B L U L' U R L B L'",
+        "scrambleId": "1271690",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "R U L B R L U R B' U R",
+        "scrambleId": "1271691",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L U L' R U R' U R' B' L' B",
+        "scrambleId": "1271692",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L R L' R U' L B' R' L' B' U'",
+        "scrambleId": "1271693",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B U L' U' L B' R' L B U L",
+        "scrambleId": "1271694",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U R L' U R U' B L B' U' B'",
+        "scrambleId": "1271695",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B L' U' R' L U' R L' U' R L",
+        "scrambleId": "1271696",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L U L' R L' U' L U' L U B",
+        "scrambleId": "1271697",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L U' R' U R' L U' L U R' L",
+        "scrambleId": "1271698",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "R L B' L' U' R U' B U' L' U",
+        "scrambleId": "1271699",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R B U' R' U R' L' R' B' R U'",
+        "scrambleId": "1271700",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B U B' L' B U L R L R B",
+        "scrambleId": "1271701",
+        "isExtra": 1,
+        "groupId": "B"
+      }
+    ]
+  }
+}

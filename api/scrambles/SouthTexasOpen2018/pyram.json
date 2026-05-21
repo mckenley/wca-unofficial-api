@@ -1,0 +1,57 @@
+{
+  "eventId": "pyram",
+  "competitionId": "SouthTexasOpen2018",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "U B' R' U' B' U' B R L' B' R' u' l b'",
+        "scrambleId": "931374",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U R L R B' R' L' U' R' U' B' u' l' r",
+        "scrambleId": "931375",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B R' U' R' L' U' L' B' L' U' B",
+        "scrambleId": "931376",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L B' L' B' L' R U' R L' U R b",
+        "scrambleId": "931377",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "U L B L U' B U L R' L' R u l r' b",
+        "scrambleId": "931378",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R' L' R' B L' B' L R U' B' L' u' r",
+        "scrambleId": "931379",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L' U R L' B L U B' U B L' u l r' b'",
+        "scrambleId": "931380",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

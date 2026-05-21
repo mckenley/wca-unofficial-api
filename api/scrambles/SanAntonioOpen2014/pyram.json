@@ -1,0 +1,108 @@
+{
+  "eventId": "pyram",
+  "competitionId": "SanAntonioOpen2014",
+  "rounds": {
+    "1": [
+      {
+        "scrambleNum": "1",
+        "scramble": "U R L' U' B U R L' B L' U' u l b",
+        "scrambleId": "65747",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B' U L' B' R B' R L U' B R' u l b'",
+        "scrambleId": "65748",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L U R' U B' L U' R' U' B L' u' l b",
+        "scrambleId": "65749",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L B' L' R U' B' U' R' U B' U u' l r' b",
+        "scrambleId": "65750",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "B U' R' U B' R' B' R L' U' B u l' b",
+        "scrambleId": "65751",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B L U' L U' L U R U' B U' u' l",
+        "scrambleId": "65752",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L U' B U' L' B R' B' R' L' U' u l b'",
+        "scrambleId": "65753",
+        "isExtra": 1,
+        "groupId": "B"
+      }
+    ],
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "U' R' L' R B U' R' B L B' R' l' r",
+        "scrambleId": "65754",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R U' L' R L U' B' L R' L R' u l r' b'",
+        "scrambleId": "65755",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L B' R U' R B R' U' B L' B' u r' b",
+        "scrambleId": "65756",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "B' R' B' U R' U' B' U B' U' R' r b",
+        "scrambleId": "65757",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "B' R' B L' R' L' U B' R' B U' u' l' r b'",
+        "scrambleId": "65758",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U L U B L' U B' R' L U' L",
+        "scrambleId": "65759",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L' R L U' L' U R L' R' U' R l b'",
+        "scrambleId": "65760",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

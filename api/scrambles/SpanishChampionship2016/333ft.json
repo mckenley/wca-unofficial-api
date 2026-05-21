@@ -1,0 +1,43 @@
+{
+  "eventId": "333ft",
+  "competitionId": "SpanishChampionship2016",
+  "rounds": {
+    "c": [
+      {
+        "scrambleNum": "1",
+        "scramble": "F2 L2 U B2 D2 U' B2 D' B' L2 R' B L' F U' F' U' F' R' D'",
+        "scrambleId": "375499",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U2 R' B2 L' U2 L R' B2 F' D2 U' F L2 F L' R2 U F R2",
+        "scrambleId": "375500",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B2 R2 U' F2 L2 D' F2 D2 B2 L2 D' F' D' U' B2 U' F L F",
+        "scrambleId": "375501",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R2 U2 F U2 R2 B' F U2 R' F L B' R2 U' R2 U F L B",
+        "scrambleId": "375502",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U2 F2 L' B' U2 F D' F' R L2 B2 D B2 R2 U B2 U B2 U F2",
+        "scrambleId": "375503",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

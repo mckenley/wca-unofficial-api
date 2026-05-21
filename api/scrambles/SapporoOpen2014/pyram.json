@@ -1,0 +1,57 @@
+{
+  "eventId": "pyram",
+  "competitionId": "SapporoOpen2014",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "U L R' U L B L B' L U' B u' b'",
+        "scrambleId": "64128",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R' U L' R B U' R' L U B' U u' l' r b",
+        "scrambleId": "64129",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "R' U' B' U L R B R L U B u' l r b",
+        "scrambleId": "64130",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L' B' L' R' L R' U R B' U' B u' l b",
+        "scrambleId": "64131",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "B U' R' L B R U' B L' B' R u' l' r b'",
+        "scrambleId": "64132",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B U' R L' R L' U' L U' B' R r'",
+        "scrambleId": "64133",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R U' B R U' B' L R L R u l r b'",
+        "scrambleId": "64134",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

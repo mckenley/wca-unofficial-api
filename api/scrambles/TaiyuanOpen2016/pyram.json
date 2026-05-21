@@ -1,0 +1,57 @@
+{
+  "eventId": "pyram",
+  "competitionId": "TaiyuanOpen2016",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "U R U' R' B U R' L' R' U' B' u r",
+        "scrambleId": "310240",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U R L' R B' R' L' U' B' R' B' u r b'",
+        "scrambleId": "310241",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "U B' R U B R U R' B' L' U r' b",
+        "scrambleId": "310242",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "R' L' R B L' R' B' U' B' U' B' u l r' b'",
+        "scrambleId": "310243",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "U R B' R B L' B' R' B' R' U' u' l'",
+        "scrambleId": "310244",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R' U' L U B' R U' B L' B' R' u'",
+        "scrambleId": "310245",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R' U R' B R' L' U' R B' R' B u' l' r' b",
+        "scrambleId": "310246",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

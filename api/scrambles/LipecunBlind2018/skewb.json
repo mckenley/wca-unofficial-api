@@ -1,0 +1,106 @@
+{
+  "eventId": "skewb",
+  "competitionId": "LipecunBlind2018",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "L R B L' U B R' U R' L U'",
+        "scrambleId": "915531",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L U' R' B R' U R' L U' B' U'",
+        "scrambleId": "915532",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "U R B' R' U L R L' R' B' U'",
+        "scrambleId": "915533",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "R B L U' R L R' U R' L B'",
+        "scrambleId": "915534",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "U B R L R U L' U' B R' B'",
+        "scrambleId": "915535",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U B L R' B R B L' R' B' R'",
+        "scrambleId": "915536",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R L R' U' R' B R' U' R' U",
+        "scrambleId": "915537",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L R B L R' L U L U R U",
+        "scrambleId": "915538",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U L U B' U L' U B' U R' B'",
+        "scrambleId": "915539",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "R B L' U' L' B' R U' B U' B'",
+        "scrambleId": "915540",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "R L B' L' R B R' L B' L' R'",
+        "scrambleId": "915541",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "B U R L' R' U' L' U L' R' U'",
+        "scrambleId": "915542",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U R U L B U' R' L R U L'",
+        "scrambleId": "915543",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L B L' B' L' U L B L' R' U'",
+        "scrambleId": "915544",
+        "isExtra": 1,
+        "groupId": "B"
+      }
+    ]
+  }
+}

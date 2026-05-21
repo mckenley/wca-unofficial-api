@@ -1,0 +1,43 @@
+{
+  "eventId": "333ft",
+  "competitionId": "ZaragozaOpen2014",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "L U' D' L2 B R U' L F2 R' F2 U2 L2 F R2 U2 D2 B D2 R2 L2",
+        "scrambleId": "10096",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R' F' U' L B' L' D R L D' R2 F2 L' D2 L D2 B2 L B2",
+        "scrambleId": "10097",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "U D R L U2 D2 R U' F' U' L2 U2 R2 F' B' L2 F U2 L2",
+        "scrambleId": "10098",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U2 L2 F2 U2 F' R2 D2 U2 F2 D' L' B L' U' F' U2 R U2 F2 R2",
+        "scrambleId": "10099",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U' R U' F' U2 D' R2 B U' R2 F D' R2 U2 D B2 R2 D' B2",
+        "scrambleId": "10100",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

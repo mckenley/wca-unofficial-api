@@ -1,0 +1,106 @@
+{
+  "eventId": "skewb",
+  "competitionId": "NiteroiOpen2023",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "B L B' R' L' B R' L B R' B'",
+        "scrambleId": "3367257",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B L U' R' U L R U' R B L",
+        "scrambleId": "3367258",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B U R U L U' B R' L U' B",
+        "scrambleId": "3367259",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "B L U L' B U L' U B' R' B",
+        "scrambleId": "3367260",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "R B U' R' L R U' L R B R'",
+        "scrambleId": "3367261",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R B R' B L' U L' B R U' R",
+        "scrambleId": "3367262",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R B L U' R' U' R' L R' B' U",
+        "scrambleId": "3367263",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L U R B' R B' U' R L' B' L'",
+        "scrambleId": "3367264",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U L U B R' L B' U L U' R'",
+        "scrambleId": "3367265",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B L R B' L B' L U' R L U'",
+        "scrambleId": "3367266",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "B L B U L R' U' B R' B L'",
+        "scrambleId": "3367267",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L R' B' R' B' R' L' B' R L U'",
+        "scrambleId": "3367268",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R B U R B' R' B L' U' R B",
+        "scrambleId": "3367269",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B R B U' L' R' L' B L B R'",
+        "scrambleId": "3367270",
+        "isExtra": 1,
+        "groupId": "B"
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "eventId": "skewb",
+  "competitionId": "VinaCubingFestIVSC2024",
+  "rounds": {
+    "c": [
+      {
+        "scrambleNum": "1",
+        "scramble": "U L U' L R B' R' U' L R U",
+        "scrambleId": "4059361",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B R B' L B U L U B R U'",
+        "scrambleId": "4059362",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "R B L' B L' U R B L R L",
+        "scrambleId": "4059363",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L B L U B' R B' R U L U'",
+        "scrambleId": "4059364",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "B U B U R L' B U B L' U'",
+        "scrambleId": "4059365",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L R B' R B' L B' R U B' R'",
+        "scrambleId": "4059366",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B L U L' B R' U' B' L R L'",
+        "scrambleId": "4059367",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R L U B' L' U' R L' R' L R'",
+        "scrambleId": "4059368",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R B U B L' B U B L R' U'",
+        "scrambleId": "4059369",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B L B' U' L' B' L' B R' L B'",
+        "scrambleId": "4059370",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "B R U L R L' B' R U' L' U",
+        "scrambleId": "4059371",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "U B R U' R L' U L U' L R'",
+        "scrambleId": "4059372",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R B' L B' R' B' R' U' B L B'",
+        "scrambleId": "4059373",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U B' U' R U' B' L' U' L' B U'",
+        "scrambleId": "4059374",
+        "isExtra": 1,
+        "groupId": "B"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "eventId": "333ft",
+  "competitionId": "VITRubiksCubeChallenge2017",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "D2 L2 B R2 B' U R2 L B' R F' R2 U2 R2 B' U2 R2 U2",
+        "scrambleId": "601350",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L2 B2 L' U2 L F2 R F2 U2 L2 F' U' L B' D B2 F' D' F2 L",
+        "scrambleId": "601351",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "R U2 L2 R' D2 B2 R2 U2 B2 U R' F2 U F L' B U L' B'",
+        "scrambleId": "601352",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U' L2 D' L' B' L F D R D' L' U2 B L2 F2 R2 F' B'",
+        "scrambleId": "601353",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R2 D L' F L' D' L' B R' B' R' U' D2 B2 R2 U2 D B2",
+        "scrambleId": "601354",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R D' B' U2 B2 L B2 D2 R' U' B2 U' F2 U L2 U' B2 U R2 U2",
+        "scrambleId": "601355",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "D' U' F2 L2 F2 U F2 R2 D2 R2 U' F U2 L B L2 D' F2 L2 B'",
+        "scrambleId": "601356",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B2 U L2 D F U2 L B R L' U2 L2 D2 B2 U' F2 L2 D R2",
+        "scrambleId": "601357",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R2 B2 R2 B2 R2 D2 L' U2 L' U L2 B L' F' L R2 D",
+        "scrambleId": "601358",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "D R2 U F2 D U2 R2 F2 D' B2 F U2 R D F2 R' U' L' D' U2",
+        "scrambleId": "601359",
+        "isExtra": 1,
+        "groupId": "B"
+      }
+    ]
+  }
+}

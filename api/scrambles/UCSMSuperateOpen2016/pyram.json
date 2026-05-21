@@ -1,0 +1,57 @@
+{
+  "eventId": "pyram",
+  "competitionId": "UCSMSuperateOpen2016",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "R' U' B R' B L' R' B R' L' R u b'",
+        "scrambleId": "311960",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R' L R U' B' L B L R' L' U u l b'",
+        "scrambleId": "311961",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L' U B R L B L' U B R U' u' r",
+        "scrambleId": "311962",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "B R U L' U L R L' U' B' U u l' b",
+        "scrambleId": "311963",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "U B' U R B L U' B R' L' U u' r' b'",
+        "scrambleId": "311964",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U' L R' B L' B R' B L U R' u' l' r b'",
+        "scrambleId": "311965",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R' B R' U R U R U B R u l",
+        "scrambleId": "311966",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

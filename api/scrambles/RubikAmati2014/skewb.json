@@ -1,0 +1,57 @@
+{
+  "eventId": "skewb",
+  "competitionId": "RubikAmati2014",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "L R B' U R B' L U L B' L",
+        "scrambleId": "50571",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R L' U R' L' B' U L' B' L",
+        "scrambleId": "50572",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L R L U L' U' R' B U R B'",
+        "scrambleId": "50573",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L R U' L B' L U' L' B' U' B'",
+        "scrambleId": "50574",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L R L U' R' L R' U B L R'",
+        "scrambleId": "50575",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L R L' B' R' B' R L' R' U L'",
+        "scrambleId": "50576",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R L U L' B' U' L R U L'",
+        "scrambleId": "50577",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "eventId": "skewb",
+  "competitionId": "SerbianOpen2023",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "U B U B' U B' U' B R L U'",
+        "scrambleId": "3334834",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B L B' U B L R B' U' B' R",
+        "scrambleId": "3334835",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "R B R' L B U' B U' B' R' L",
+        "scrambleId": "3334836",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "B R L' B L R L' U L' R U'",
+        "scrambleId": "3334837",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "R U L' R B L' B' U' B U' R",
+        "scrambleId": "3334838",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U R B R U B' L' B U' B U'",
+        "scrambleId": "3334839",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L U R L U' R' U R U' B' U",
+        "scrambleId": "3334840",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L R B' U B' L B' L' B' R' U",
+        "scrambleId": "3334841",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B R U B' R U B' U L R' L'",
+        "scrambleId": "3334842",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "R B R' L B' R' U' R' B' U R",
+        "scrambleId": "3334843",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L B U' B' U B U B L U' B'",
+        "scrambleId": "3334844",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L R B L R' U' B' R' U' B R",
+        "scrambleId": "3334845",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B U B L' R' L' R' B' L' U' L'",
+        "scrambleId": "3334846",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B R U' L' B' U' B' L R B' L",
+        "scrambleId": "3334847",
+        "isExtra": 1,
+        "groupId": "B"
+      }
+    ]
+  }
+}

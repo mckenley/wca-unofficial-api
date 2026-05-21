@@ -1,0 +1,106 @@
+{
+  "eventId": "skewb",
+  "competitionId": "LionPride2019",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "L U L R' U L B R U' L U'",
+        "scrambleId": "1050001",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R B' R L' R' B' L R L' B'",
+        "scrambleId": "1050002",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "U R B' L' B' R' L' R' B L' B",
+        "scrambleId": "1050003",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L B L B' R B U' L' B' L' R",
+        "scrambleId": "1050004",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "U R U B' R U B L B L B'",
+        "scrambleId": "1050005",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U B U' R' U' B' R L' R L U'",
+        "scrambleId": "1050006",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B L U L U L U L R' L R'",
+        "scrambleId": "1050007",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B U B' R L' R U' L' B L B'",
+        "scrambleId": "1050008",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R L B U R' L B' R B R U'",
+        "scrambleId": "1050009",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B U B L U B' L R' L B L'",
+        "scrambleId": "1050010",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "R U L R' L' B' U L R L' B'",
+        "scrambleId": "1050011",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "U R B U R' B L B' U' L' U'",
+        "scrambleId": "1050012",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U L B L' R' L' B' R L' B' L",
+        "scrambleId": "1050013",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U L R B R' L R' B' L B U",
+        "scrambleId": "1050014",
+        "isExtra": 1,
+        "groupId": "B"
+      }
+    ]
+  }
+}

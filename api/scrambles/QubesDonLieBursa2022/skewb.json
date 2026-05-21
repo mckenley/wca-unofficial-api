@@ -1,0 +1,106 @@
+{
+  "eventId": "skewb",
+  "competitionId": "QubesDonLieBursa2022",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "L R L' B R' B R' U L' U B",
+        "scrambleId": "2217869",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R B L B' U' R U' B U B R",
+        "scrambleId": "2217870",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B L B R B L' R U' L U' R",
+        "scrambleId": "2217871",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L U L B U' L U R L' U' R",
+        "scrambleId": "2217872",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "R L U' L' U' R' U L' U B L",
+        "scrambleId": "2217873",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R U R' U' L' U R L B' L' B'",
+        "scrambleId": "2217874",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U L R L B L' U R' L' U' L'",
+        "scrambleId": "2217875",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B L R U' L' B U R B' L' B'",
+        "scrambleId": "2217876",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R B U R' U' B' L R' L R U",
+        "scrambleId": "2217877",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B U L' R' L U' L R' U B' U'",
+        "scrambleId": "2217878",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "R L B L B L B U' B R L'",
+        "scrambleId": "2217879",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "U B' R' U' R U R L' R B R",
+        "scrambleId": "2217880",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L B R B' U R' B L' U R' U",
+        "scrambleId": "2217881",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L B L' R B U' L' R U' L' R",
+        "scrambleId": "2217882",
+        "isExtra": 1,
+        "groupId": "B"
+      }
+    ]
+  }
+}

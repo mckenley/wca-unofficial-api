@@ -1,0 +1,43 @@
+{
+  "eventId": "333bf",
+  "competitionId": "RubikLaVerapaz2015",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "B2 L2 D2 F2 U B2 U' B2 D2 F R B2 D2 F U' B F R2 U R Uw",
+        "scrambleId": "224513",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "D2 F D2 U2 L2 F' R2 D2 R2 B2 R2 U' B2 R' D' R2 F L' B U Rw' Uw",
+        "scrambleId": "224514",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "D' B2 R2 U2 R2 D' R2 F2 U2 B2 U' B' R' F' U F2 L2 U2 L' F2 D Rw' Uw",
+        "scrambleId": "224515",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R2 U2 R2 B' L2 B' U2 B' U2 F2 R' F D2 B R' B' L D' B2 R' Fw Uw'",
+        "scrambleId": "224516",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L' F2 L2 B2 L' D2 B2 L' B2 R' D' R B2 D U' R B D F' R D Rw' Uw'",
+        "scrambleId": "224517",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

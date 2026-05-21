@@ -1,0 +1,57 @@
+{
+  "eventId": "pyram",
+  "competitionId": "YogaSummerA2022",
+  "rounds": {
+    "c": [
+      {
+        "scrambleNum": "1",
+        "scramble": "R L' B U' L U L' R' L B' U u r' b'",
+        "scrambleId": "2106515",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R' U R' L' B' U B L U' R' B l' r' b'",
+        "scrambleId": "2106516",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L' U L' R' U' R' L' U' R U R u' r' b'",
+        "scrambleId": "2106517",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "U' L' B' R B' L' B' R L U' B r b",
+        "scrambleId": "2106518",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L U L' U L' U L' U' R' B' L u' l r' b'",
+        "scrambleId": "2106519",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L U' R B' L R B R' B R' L' u l' r' b'",
+        "scrambleId": "2106520",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B' L U' L U R L' B R L' U u l r' b",
+        "scrambleId": "2106521",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

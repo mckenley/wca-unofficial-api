@@ -1,0 +1,57 @@
+{
+  "eventId": "pyram",
+  "competitionId": "MarathonOpen2017",
+  "rounds": {
+    "c": [
+      {
+        "scrambleNum": "1",
+        "scramble": "U B' L' B' U' L' B' U' B U R' u' r b",
+        "scrambleId": "669239",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U R' L' B R' U L B' R' U' B' u' l r b",
+        "scrambleId": "669240",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "U' B U' B' U B L' U' L' R' L u r' b",
+        "scrambleId": "669241",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "R' L R' U L U L U B R L' u l' r b",
+        "scrambleId": "669242",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L' U' L U' L U' R' L U B R u l r' b'",
+        "scrambleId": "669243",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U R' U R' B L' U' R' U' R' U' l r b'",
+        "scrambleId": "669244",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R' L U' R' L U B R L B r'",
+        "scrambleId": "669245",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "eventId": "333ft",
+  "competitionId": "ShanghaiSummerOpen2015",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "R2 U2 B' D2 F2 U2 L2 B2 R' B' U' F L' U2 R F R' D' B2",
+        "scrambleId": "182100",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R2 F2 B' U' F2 U2 F R D F U' B2 R2 D2 R2 D' F2 L2 B2 L2",
+        "scrambleId": "182101",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "R2 D B2 U2 R2 U2 L2 F2 D F2 L D' R2 D U' F D' B L F'",
+        "scrambleId": "182102",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L B2 U2 R2 B2 R' B2 L' U B R2 D2 L' F' U' R' B",
+        "scrambleId": "182103",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "D2 R B2 F2 L R' F2 D2 R2 B U2 L2 U B R B2 U' L2 U' R'",
+        "scrambleId": "182104",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

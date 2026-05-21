@@ -1,0 +1,43 @@
+{
+  "eventId": "333ft",
+  "competitionId": "MontrealFall2014",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "L2 F D2 B' R2 F2 L2 B2 D2 L' F' U B F R' U' L R2 D2 R2",
+        "scrambleId": "66001",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "D2 R2 B2 F R2 B' D2 U2 L B2 D F2 U L2 B F' R F",
+        "scrambleId": "66002",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B' L D B D' R' L' D B' R U2 L' U2 D2 R' B2 R2 B2 R",
+        "scrambleId": "66003",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B2 L U' B2 U2 R F D2 B D F2 D2 F2 R' U2 L' F2 R' F2 U2",
+        "scrambleId": "66004",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U B2 L' U2 F' U2 L2 D B' D' R2 B2 R D2 F2 R2 U2 R2",
+        "scrambleId": "66005",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "eventId": "pyram",
+  "competitionId": "Paraiso2017",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "B R' U L' R' U R' U L R' B' u b",
+        "scrambleId": "520024",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R' B U L' U' R' B' R L' U' u r' b'",
+        "scrambleId": "520025",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L' B' L' B' L' B R U' L' U B' u' r b'",
+        "scrambleId": "520026",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L B' U' R B L' R' B U B' L' u' l r'",
+        "scrambleId": "520027",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L' R' L' R U' R' L U L U B' u r",
+        "scrambleId": "520028",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L R' B R' L B' R L U B R' l' r' b'",
+        "scrambleId": "520029",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B' R L U' B' L U B' U' B' R u' l r b",
+        "scrambleId": "520030",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

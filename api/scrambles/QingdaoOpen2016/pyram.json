@@ -1,0 +1,57 @@
+{
+  "eventId": "pyram",
+  "competitionId": "QingdaoOpen2016",
+  "rounds": {
+    "c": [
+      {
+        "scrambleNum": "1",
+        "scramble": "B' L U' R B L R' U' R' U' B u l r",
+        "scrambleId": "270341",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B L' R B U L B R U' L U' u' l' r",
+        "scrambleId": "270342",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B' L B L' B L R' B' R L B u r' b'",
+        "scrambleId": "270343",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "B' U' L B' U' R' U' B' R' L' U u l",
+        "scrambleId": "270344",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "U L' B' R' U R' U R' U' B' U' l r' b'",
+        "scrambleId": "270345",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B U R L' U L B R' B R' L u l' b",
+        "scrambleId": "270346",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R U B' L' R' U B' U' L' B R' u' b'",
+        "scrambleId": "270347",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

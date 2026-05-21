@@ -1,0 +1,43 @@
+{
+  "eventId": "333ft",
+  "competitionId": "NorwegianChampionship2017",
+  "rounds": {
+    "c": [
+      {
+        "scrambleNum": "1",
+        "scramble": "L2 U R2 B2 L2 F2 D2 F2 D2 B L2 F2 U' R' D2 U' L F' R2 B2",
+        "scrambleId": "469025",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R2 D B2 L2 U2 L2 F2 R2 F' L' F R D' R' U B2 L F' L",
+        "scrambleId": "469026",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B' U2 F L2 B' U2 F' L2 D' R F' L' B D' L R' D2 R2 F",
+        "scrambleId": "469027",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B2 D' R2 B2 D' B2 L2 D' L2 D F R' U L U R B' L D' F2 U'",
+        "scrambleId": "469028",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U2 F2 R B2 R2 B2 D2 F2 R2 F' U' R' B F2 D' R' F D F' R'",
+        "scrambleId": "469029",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

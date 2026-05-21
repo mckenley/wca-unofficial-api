@@ -1,0 +1,57 @@
+{
+  "eventId": "pyram",
+  "competitionId": "RubIquitos2016",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "R L' U' L R U B U' B' R U' u l r b'",
+        "scrambleId": "386113",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R' U' B' L' R U' B' R' L' U' B u r b",
+        "scrambleId": "386114",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "U B' L' R' L R' U' R' U' B' R u r' b'",
+        "scrambleId": "386115",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L' B' R' B L' U' B U B R' L l' b'",
+        "scrambleId": "386116",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "B' L' U R U R' U' B L' U' B u' b'",
+        "scrambleId": "386117",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R' U' R U B' L' R B' R L' U' u l b'",
+        "scrambleId": "386118",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U B' R B' L' R' B' U' B' R' B u l b",
+        "scrambleId": "386119",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

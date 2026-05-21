@@ -1,0 +1,106 @@
+{
+  "eventId": "skewb",
+  "competitionId": "SilverCitySideEvents2023",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "L R B' R L U B' U B L U'",
+        "scrambleId": "2860298",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R L B L B R U R U R L'",
+        "scrambleId": "2860299",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "U B U' B' L' U' L B R' U' B",
+        "scrambleId": "2860300",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "U L R' B' R' B L B U R B",
+        "scrambleId": "2860301",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "B L U R' B R L R' U' B' U'",
+        "scrambleId": "2860302",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B R L U' B R' U' L' R U B'",
+        "scrambleId": "2860303",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B U' R B' R' L B' U' L' R' U'",
+        "scrambleId": "2860304",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R U R L R L' U B U B' U'",
+        "scrambleId": "2860305",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R L B R U L' R' L' U' B L'",
+        "scrambleId": "2860306",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "R L U' R' B R L' U' L' R U'",
+        "scrambleId": "2860307",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "U R U B L' R B' R' U L U'",
+        "scrambleId": "2860308",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "B L' R L' R' U L R L' B' R'",
+        "scrambleId": "2860309",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B R L U' B' R' B' R' B U L'",
+        "scrambleId": "2860310",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R U L B L R' B' L' R' B R",
+        "scrambleId": "2860311",
+        "isExtra": 1,
+        "groupId": "B"
+      }
+    ]
+  }
+}

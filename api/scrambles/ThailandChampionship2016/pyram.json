@@ -1,0 +1,57 @@
+{
+  "eventId": "pyram",
+  "competitionId": "ThailandChampionship2016",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "B U' L B L' U' L' U' R' U L' l",
+        "scrambleId": "330912",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R U' R L U' L R U R L' U u l r b",
+        "scrambleId": "330913",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "U R L' U' R' L U' B' R' L' U' l'",
+        "scrambleId": "330914",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L' U R B' L U' B R L' R' L' u' l' b'",
+        "scrambleId": "330915",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "U' B R B' L R' B' U' R U' B' l b",
+        "scrambleId": "330916",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B L' R B' R B L' B R' B' R r'",
+        "scrambleId": "330917",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R L' R' B U' B L' B' R' U L u r' b'",
+        "scrambleId": "330918",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

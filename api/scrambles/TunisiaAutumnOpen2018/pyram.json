@@ -1,0 +1,57 @@
+{
+  "eventId": "pyram",
+  "competitionId": "TunisiaAutumnOpen2018",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "L' R U' B' U L B' R L B' R' l' r b",
+        "scrambleId": "904120",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B U' R B U B R' U L' B L u' l'",
+        "scrambleId": "904121",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "U R' L' U L' R L' U' R' L' U u r b'",
+        "scrambleId": "904122",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L' R B U L B' L R' B' R L l' r",
+        "scrambleId": "904123",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "B R' U' L U B' L B' L U' B' u l' r'",
+        "scrambleId": "904124",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R L' U' L' R' U' L R U' R' L u b",
+        "scrambleId": "904125",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U' L' B' U L' B' R L R L' R u' l' b",
+        "scrambleId": "904126",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

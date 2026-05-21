@@ -1,0 +1,57 @@
+{
+  "eventId": "clock",
+  "competitionId": "YoRubik20SC2017",
+  "rounds": {
+    "c": [
+      {
+        "scrambleNum": "1",
+        "scramble": "UR6+ DR3- DL4- UL6+ U3+ R2- D0+ L2- ALL1- y2 U0+ R1- D4+ L6+ ALL4+",
+        "scrambleId": "636214",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "UR3+ DR2- DL0+ UL4- U0+ R2- D3- L0+ ALL0+ y2 U4- R2+ D6+ L0+ ALL2- DR",
+        "scrambleId": "636215",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "UR5+ DR2- DL5+ UL2- U4+ R3+ D5- L3- ALL1+ y2 U2+ R4+ D2+ L0+ ALL5+ DR",
+        "scrambleId": "636216",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "UR4+ DR5- DL1- UL3+ U5+ R3+ D5- L3- ALL5+ y2 U1+ R5- D0+ L4+ ALL3- UR UL",
+        "scrambleId": "636217",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "UR5+ DR5+ DL0+ UL1+ U3- R0+ D3+ L5- ALL1- y2 U5+ R2- D4+ L4- ALL4+ UR UL",
+        "scrambleId": "636218",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "UR5- DR4+ DL6+ UL2+ U1+ R3- D3+ L3+ ALL1+ y2 U4+ R2- D2+ L2+ ALL6+ UL",
+        "scrambleId": "636219",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "UR5+ DR4+ DL3+ UL4+ U3+ R3- D1+ L4- ALL1+ y2 U4+ R2- D0+ L3- ALL6+ UL",
+        "scrambleId": "636220",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

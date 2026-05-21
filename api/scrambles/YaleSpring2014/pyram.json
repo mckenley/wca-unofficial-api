@@ -1,0 +1,57 @@
+{
+  "eventId": "pyram",
+  "competitionId": "YaleSpring2014",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "R L' U' L' B' L R' L' R' U' B' u' l b'",
+        "scrambleId": "4839",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R U' R' U B' U R' L U' R B' l' r",
+        "scrambleId": "4840",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B' U B' R' B U B R' L R' L l'",
+        "scrambleId": "4841",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "B' R B L' B R' U' B L R' U u r' b",
+        "scrambleId": "4842",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L B' L R' U B R' U R' U R u b'",
+        "scrambleId": "4843",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U' R L' R' B U' L B' R' L' U' u' l' r b",
+        "scrambleId": "4844",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U' R L R B' U L B L R U l r",
+        "scrambleId": "4845",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

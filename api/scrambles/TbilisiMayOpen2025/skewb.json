@@ -1,0 +1,106 @@
+{
+  "eventId": "skewb",
+  "competitionId": "TbilisiMayOpen2025",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "L R U' R' L B L' U' L' U' L'",
+        "scrambleId": "4711799",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R U L' U' B' L' B R' L R' U'",
+        "scrambleId": "4711800",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B L B L R' L U' R B R L'",
+        "scrambleId": "4711801",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L R U L R B R' L B' L R",
+        "scrambleId": "4711802",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L R U L R' L' U R' L B U'",
+        "scrambleId": "4711803",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B L B U' R' U R L U B L'",
+        "scrambleId": "4711804",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B L B' L U R B' U L' R' B",
+        "scrambleId": "4711805",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L U B' R' L U' R' U R' B U",
+        "scrambleId": "4711806",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R B' U' L U' R' U' B' U B",
+        "scrambleId": "4711807",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L R U' L R B U B' U R' B'",
+        "scrambleId": "4711808",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "B L U' B U B' L' R U B U'",
+        "scrambleId": "4711809",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "U L U B L R' B R' L B R",
+        "scrambleId": "4711810",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R L R B' R L' U' B L U R",
+        "scrambleId": "4711811",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R U B' L U' R L U L B L'",
+        "scrambleId": "4711812",
+        "isExtra": 1,
+        "groupId": "B"
+      }
+    ]
+  }
+}

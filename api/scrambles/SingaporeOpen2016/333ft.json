@@ -1,0 +1,43 @@
+{
+  "eventId": "333ft",
+  "competitionId": "SingaporeOpen2016",
+  "rounds": {
+    "c": [
+      {
+        "scrambleNum": "1",
+        "scramble": "R' U2 R' F2 L2 F2 L D2 U2 B2 F' U' L2 B' D' F2 L2 D L2 R",
+        "scrambleId": "255283",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R F2 L R2 D2 L B2 F2 D2 F' D2 B' R2 U2 L D U' R B",
+        "scrambleId": "255284",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "D2 F2 D2 R' F2 L R B2 U2 R2 F2 D B D' U L2 B L2 D' L R2",
+        "scrambleId": "255285",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B2 L2 D2 F2 U' L2 R2 B' L' U2 B U2 L2 B2 F2 L' R' U",
+        "scrambleId": "255286",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "F2 D2 B2 L D2 U2 F2 R' F2 R' U' L' R' U' B' R D' B' D U'",
+        "scrambleId": "255287",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "eventId": "pyram",
+  "competitionId": "MorroReuterCubing2024",
+  "rounds": {
+    "c": [
+      {
+        "scrambleNum": "1",
+        "scramble": "U' L' R' U B' L' B R' U' B L' u' l' r b",
+        "scrambleId": "4019985",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U R' U' B U B R' B L B' L u' l' r' b",
+        "scrambleId": "4019986",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "U L U' R' L' R U' R' U' B' R u l r' b'",
+        "scrambleId": "4019987",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "B U B L' R L' B L B' R' L' u l b'",
+        "scrambleId": "4019988",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "B L' B U' B L U' B L' R' L l' b'",
+        "scrambleId": "4019989",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B R L B' L R L' U R' U' B' u l' r' b",
+        "scrambleId": "4019990",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U B' R' B' R B' R' U' B L B u l' r b",
+        "scrambleId": "4019991",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B' U L' U' L' B' R' B R' L' R u l' r",
+        "scrambleId": "4019992",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L' B R B L' U L' R U' B' R u' l r' b",
+        "scrambleId": "4019993",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "U' B' L B U' L' B' L U R U u r'",
+        "scrambleId": "4019994",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "B R L' B' U R' B U R' L R l r b'",
+        "scrambleId": "4019995",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "R B' L' U B' L U' L' B L B r b'",
+        "scrambleId": "4019996",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U B U' L U B' R U R' L' U u l r' b",
+        "scrambleId": "4019997",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U R B R U R U L U' B R' u r' b'",
+        "scrambleId": "4019998",
+        "isExtra": 1,
+        "groupId": "B"
+      }
+    ]
+  }
+}

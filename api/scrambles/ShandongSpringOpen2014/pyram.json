@@ -1,0 +1,57 @@
+{
+  "eventId": "pyram",
+  "competitionId": "ShandongSpringOpen2014",
+  "rounds": {
+    "c": [
+      {
+        "scrambleNum": "1",
+        "scramble": "R' U L' R B' L' B' U B' L' B u r",
+        "scrambleId": "11434",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U R' L B R' B' L B' R B' R l r' b'",
+        "scrambleId": "11435",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "R' B L' R B R U R' L' U' B u' r b",
+        "scrambleId": "11436",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "R' B' U' B' R' B R' L' B' R' L l' r'",
+        "scrambleId": "11437",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L' U' L' U' R' L R' L R U R' u r b'",
+        "scrambleId": "11438",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U' B L R' B R B R' L B' U l r b",
+        "scrambleId": "11439",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R' L U B L U L R' L U R u' b'",
+        "scrambleId": "11440",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

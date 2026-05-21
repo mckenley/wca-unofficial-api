@@ -1,0 +1,43 @@
+{
+  "eventId": "333ft",
+  "competitionId": "MADCubeWeekend2015",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "U' L2 D F2 D2 B2 F2 D U' B' D L F' R U R2 U R B2",
+        "scrambleId": "111237",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U2 B' U2 F2 R' F' B U' R2 F' L' D2 B2 U B2 U' R2 D' F2",
+        "scrambleId": "111238",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L' F U2 L F L' D B' U B2 U2 L' U2 D2 R' L' U2 B2 L'",
+        "scrambleId": "111239",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B U L D' F' R2 U' L B D' L' D2 R2 B' D2 B' U2 B",
+        "scrambleId": "111240",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "D2 F2 D F R' U F B L' D' B2 D2 R F2 U2 L' F2 U2 F2 U2 F2",
+        "scrambleId": "111241",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

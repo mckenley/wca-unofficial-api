@@ -1,0 +1,43 @@
+{
+  "eventId": "333ft",
+  "competitionId": "MoratallaOpenRubik2014",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "R' U2 L' D2 R D2 U2 R D2 U2 R F' U B' F' D F L D L D",
+        "scrambleId": "21725",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L F2 R B2 L U2 F2 R B2 R' U' B2 D F D F' L' R' D",
+        "scrambleId": "21726",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L2 F2 U2 B' L2 R2 U2 F' L2 F2 U' B F2 R' B F2 L2 U2 R2",
+        "scrambleId": "21727",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L2 D2 B2 R' B2 L' D2 B2 L2 F2 U B' D' B' L' R' D B F R",
+        "scrambleId": "21728",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R F U' L' B D2 B D' B' D B D2 B R2 F' U2 R2 F L2",
+        "scrambleId": "21729",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "eventId": "skewb",
+  "competitionId": "SantaFeOClock2023",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "U R B L' U B U B' R' B U'",
+        "scrambleId": "3294466",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B R L B' R U' R B U' L R'",
+        "scrambleId": "3294467",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "R L B U R U' R L' B U' B'",
+        "scrambleId": "3294468",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "U L U' R L B' L' U' L' U' R",
+        "scrambleId": "3294469",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L B U' B R L' U' R U R' B'",
+        "scrambleId": "3294470",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "B L R' B U R' L R L B' U'",
+        "scrambleId": "3294471",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R B U' B L R B' L B U' R",
+        "scrambleId": "3294472",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L R B U B' L R' B' U' R B'",
+        "scrambleId": "3294473",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U L B U R U L' R' U' B R",
+        "scrambleId": "3294474",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "R B L' B' L U R L' R' B' R",
+        "scrambleId": "3294475",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L R L U L' R' L' U L' B' L'",
+        "scrambleId": "3294476",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "B L U' R U B' L' R' B L' U'",
+        "scrambleId": "3294477",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R U R' U B' U' L B U B' L'",
+        "scrambleId": "3294478",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U L B' R L' U' R' B' L R B'",
+        "scrambleId": "3294479",
+        "isExtra": 1,
+        "groupId": "B"
+      }
+    ]
+  }
+}

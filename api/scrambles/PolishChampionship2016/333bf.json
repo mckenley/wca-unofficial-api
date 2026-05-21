@@ -1,0 +1,80 @@
+{
+  "eventId": "333bf",
+  "competitionId": "PolishChampionship2016",
+  "rounds": {
+    "1": [
+      {
+        "scrambleNum": "1",
+        "scramble": "L2 B2 F2 U2 B2 L D2 L D B R' F U2 L D' L2 D2 F2 D Fw Uw",
+        "scrambleId": "413718",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "D' B2 L2 D R2 U2 L2 R2 F' D' L' R' U' L2 R2 B F' U L2 R Fw Uw",
+        "scrambleId": "413719",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "R' U2 R D2 R2 F2 L B2 D2 L2 D B2 D2 B' U F' D' R' D Rw Uw2",
+        "scrambleId": "413720",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L2 U2 R B2 U2 F2 D2 F2 R' D B F L' B' L2 F2 D B2 U Rw Uw",
+        "scrambleId": "413721",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L2 R2 B2 F2 U2 L2 F D L' F R' D2 F' U R B' F D' U'",
+        "scrambleId": "413722",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ],
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "U2 F2 L2 F' D2 L2 F D2 B R2 F' D' R U2 R2 F D' B L R2 D' Fw' Uw'",
+        "scrambleId": "413723",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R2 U R2 D F2 R2 U' F' L' F2 D' B L' D R2 D' B' D Fw Uw",
+        "scrambleId": "413724",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "R F2 L D2 R B2 U2 R2 B2 F' U' R' F2 D' R' B D F R2 U' Rw' Uw2",
+        "scrambleId": "413725",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R2 F2 D U L2 D' B2 R' U R2 F2 U L B' U L2 D' B2 D Fw",
+        "scrambleId": "413726",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B' F' U2 F' R2 B2 D2 R2 F' L' B2 F2 L B2 L2 U' B D R2 Fw",
+        "scrambleId": "413727",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

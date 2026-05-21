@@ -1,0 +1,108 @@
+{
+  "eventId": "pyram",
+  "competitionId": "SinaInternational2019",
+  "rounds": {
+    "1": [
+      {
+        "scrambleNum": "1",
+        "scramble": "R L R' B U' L' B' U' L U B' u l",
+        "scrambleId": "1111383",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U' B' L' U R B L U' B R' U",
+        "scrambleId": "1111384",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "U' B' U' B U L B' L B' U' B' l r",
+        "scrambleId": "1111385",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "U R L' U' L B' R B' L' U' B' u l b'",
+        "scrambleId": "1111386",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "U' B' R U R U' B' U' R' L' U u' r'",
+        "scrambleId": "1111387",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U R' L B L R' B' U' R' L' U l' r' b",
+        "scrambleId": "1111388",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L' B L B' U R' B R' B R B' u' r' b",
+        "scrambleId": "1111389",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ],
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "B' L U R B R' L' U B' R B u' l r' b",
+        "scrambleId": "1111390",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U B R U' R B' R B U L' U u' l' r b'",
+        "scrambleId": "1111391",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "U L' R B' L B' R' B L' R' L' u' l r' b",
+        "scrambleId": "1111392",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "B R B' R B L B R L' B' L l' r'",
+        "scrambleId": "1111393",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "U' L B' U' B R' B' R' B R U l'",
+        "scrambleId": "1111394",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R B U R' L' B' U R B R U u l r'",
+        "scrambleId": "1111395",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L' R' U' L B U' B U' B' R' L' u r b'",
+        "scrambleId": "1111396",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "eventId": "pyram",
+  "competitionId": "VirginiaOpenSpring2015",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "L' R U L B' L' R' B R' L U l' r",
+        "scrambleId": "126705",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L' R' L R' B R' U B' R U' R' l' b'",
+        "scrambleId": "126706",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "R' B' L U' B U' L B U' L' U' u r' b",
+        "scrambleId": "126707",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "B U R L' B R' U R' B R L' l' r'",
+        "scrambleId": "126708",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L U' L B' R U L U' B' U' B l' r' b'",
+        "scrambleId": "126709",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R B' U' B' R U R' B' U' B' R' u' l' r' b'",
+        "scrambleId": "126710",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L B' L B R' U L R' B' R' L u' l r b'",
+        "scrambleId": "126711",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

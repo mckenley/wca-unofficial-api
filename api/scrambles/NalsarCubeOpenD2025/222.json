@@ -1,0 +1,57 @@
+{
+  "eventId": "222",
+  "competitionId": "NalsarCubeOpenD2025",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "U' R' U R' U2 F U2 R2 F' U' R'",
+        "scrambleId": "4626229",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U2 F' U' R2 U' R2 U' R U' R' F",
+        "scrambleId": "4626230",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "U R' U2 F U2 F' U' R2 F U2 F",
+        "scrambleId": "4626231",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "R' U R2 U' F R U' R U' R2 F",
+        "scrambleId": "4626232",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "R F' U2 R2 U' F U2 F' U' R U'",
+        "scrambleId": "4626233",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R F' R' U2 R' F' R' F' R U2 R",
+        "scrambleId": "4626234",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U F' R' U2 R' U F R U R' U'",
+        "scrambleId": "4626235",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

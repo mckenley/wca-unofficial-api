@@ -1,0 +1,57 @@
+{
+  "eventId": "skewb",
+  "competitionId": "NoParityOpen2014",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "L R B R U' B R' U R L U'",
+        "scrambleId": "29256",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R L' U' B L U L R' L U",
+        "scrambleId": "29257",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L R L' U B' L' R' L' R B' R",
+        "scrambleId": "29258",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "L R L B U' R' L' R' L' U B'",
+        "scrambleId": "29259",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "L R L R' L R B' L R L R'",
+        "scrambleId": "29260",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L R B R' B' R B R U' B L",
+        "scrambleId": "29261",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R' L U' L' B' R U' B' L B",
+        "scrambleId": "29262",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

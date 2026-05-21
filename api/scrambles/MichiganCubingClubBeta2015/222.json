@@ -1,0 +1,57 @@
+{
+  "eventId": "222",
+  "competitionId": "MichiganCubingClubBeta2015",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "R' F R U2 R2 U2 R2 F R2 U' R2",
+        "scrambleId": "123751",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R' F U' R U' R U' R U' R2 U'",
+        "scrambleId": "123752",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "R' U' R F' U' R' U R U' R2 U",
+        "scrambleId": "123753",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "R U' F' R2 U' R2 F' R' U2 R' F'",
+        "scrambleId": "123754",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "R' F' R2 U' R2 U2 F U2 R2 F' U'",
+        "scrambleId": "123755",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R' U2 F R2 F' R' U R' U2 R U",
+        "scrambleId": "123756",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U R F' R2 F R' U2 R U' R U2",
+        "scrambleId": "123757",
+        "isExtra": 1,
+        "groupId": "A"
+      }
+    ]
+  }
+}

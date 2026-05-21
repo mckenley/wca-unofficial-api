@@ -1,0 +1,106 @@
+{
+  "eventId": "skewb",
+  "competitionId": "WinchesterWeeknightsV2023",
+  "rounds": {
+    "f": [
+      {
+        "scrambleNum": "1",
+        "scramble": "U R U' R L' B U' B' U R' U'",
+        "scrambleId": "3002299",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B R U' B L' R B' L' U' B' R",
+        "scrambleId": "3002300",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "B L R B R B U B' L B U",
+        "scrambleId": "3002301",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "R B R' B' U R' U' L' U' R' B",
+        "scrambleId": "3002302",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "R B R B' R L U R L R U'",
+        "scrambleId": "3002303",
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L B L' B' L B R' B' L B' U",
+        "scrambleId": "3002304",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R B L' R U R U B' L R' L'",
+        "scrambleId": "3002305",
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L R B' R B L' R' U B U' B",
+        "scrambleId": "3002306",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "B U B R L R B' R' L' R U'",
+        "scrambleId": "3002307",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "U B L B L U' L' R' U' B U'",
+        "scrambleId": "3002308",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "B L U L R' B R' L' B U' R",
+        "scrambleId": "3002309",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "B R L B L U B' R U B' U",
+        "scrambleId": "3002310",
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "R U L' R' B' R' U' B' U' B' U'",
+        "scrambleId": "3002311",
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R L R' U' L' R' B U B' U' B",
+        "scrambleId": "3002312",
+        "isExtra": 1,
+        "groupId": "B"
+      }
+    ]
+  }
+}
