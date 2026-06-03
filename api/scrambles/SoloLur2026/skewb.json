@@ -1,0 +1,106 @@
+{
+  "eventId": "skewb",
+  "competitionId": "SoloLur2026",
+  "rounds": {
+    "c": [
+      {
+        "scrambleNum": "1",
+        "scramble": "R B R L B' L R' L B' R U'",
+        "scrambleId": 5671127,
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "R B' U B' U L' R' U B' R' L",
+        "scrambleId": 5671128,
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "L R B' R L B' R L R U L",
+        "scrambleId": 5671129,
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "B L R' U R U' B' R' B' L R'",
+        "scrambleId": 5671130,
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "B U B' U L B' L B' U R U",
+        "scrambleId": 5671131,
+        "isExtra": 0,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "L B R L U R' B' U' L' R L",
+        "scrambleId": 5671132,
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L U L U R L' U' L R' L R'",
+        "scrambleId": 5671133,
+        "isExtra": 1,
+        "groupId": "A"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U R L U R' U' B L R' U' B",
+        "scrambleId": 5671134,
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "L R U' R' U R U' L R L U'",
+        "scrambleId": 5671135,
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "3",
+        "scramble": "R B R U' L U' L' U' L B R'",
+        "scrambleId": 5671136,
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "4",
+        "scramble": "U L R' L' U' L' U B' U' B' U",
+        "scrambleId": 5671137,
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "5",
+        "scramble": "B L R U L' B' L' R B' R' L'",
+        "scrambleId": 5671138,
+        "isExtra": 0,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "1",
+        "scramble": "U R B U B L' R L' U' L U",
+        "scrambleId": 5671139,
+        "isExtra": 1,
+        "groupId": "B"
+      },
+      {
+        "scrambleNum": "2",
+        "scramble": "U L R' U' R' L' B' U' B U' R'",
+        "scrambleId": 5671140,
+        "isExtra": 1,
+        "groupId": "B"
+      }
+    ]
+  }
+}
